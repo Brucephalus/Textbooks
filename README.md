@@ -1,0 +1,1 @@
+This is a collection of guides written by ChatGPT. Starting with the release of 4o, ChatGPT is surprisingly adept at summarizing information. I am using this tool to assemble high-level literature reviews. 
