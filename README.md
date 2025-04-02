@@ -1,3 +1,187 @@
+01 General Works & Reference
+    ├── Encyclopedias
+    ├── Dictionaries
+    ├── Bibliographies & Catalogs
+    ├── Writing & Style Guides
+    └── Miscellaneous Reference
+
+02 Philosophy & Ethics
+    ├── Metaphysics
+    ├── Epistemology
+    ├── Ethics
+    ├── Logic
+    ├── Philosophy of Mind
+    ├── Political Philosophy
+    ├── Aesthetics
+    └── Philosophy of Science
+
+03 Religion & Mythology
+    ├── Comparative Religion
+    ├── Mythology
+    ├── Abrahamic Religions
+    │   ├── Christianity
+    │   ├── Judaism
+    │   └── Islam
+    ├── Eastern Religions
+    │   ├── Hinduism
+    │   ├── Buddhism
+    │   ├── Taoism
+    │   └── Confucianism
+    └── New Religious Movements
+
+04 History & Civilizations
+    ├── Ancient History
+    ├── Medieval History
+    ├── Early Modern History
+    ├── Modern History
+    ├── Regional Histories
+    │   ├── Africa
+    │   ├── Asia
+    │   ├── Europe
+    │   ├── Middle East
+    │   ├── North America
+    │   ├── South America
+    │   └── Oceania
+    └── Historical Methods & Theory
+
+05 Social Sciences
+    ├── Anthropology
+    ├── Economics
+    │   ├── Microeconomics
+    │   ├── Macroeconomics
+    │   └── Political Economy
+    ├── Political Science
+    │   ├── Comparative Politics
+    │   ├── Political Theory
+    │   └── International Relations
+    ├── Sociology
+    ├── Law & Legal Studies
+    │   ├── Legal Theory
+    │   ├── Constitutional Law
+    │   ├── International Law
+    │   └── Criminal Law
+    └── Education
+
+06 Psychology
+    ├── Cognitive Psychology
+    ├── Developmental Psychology
+    ├── Social Psychology
+    ├── Clinical Psychology
+    ├── Neuroscience & Behavior
+    └── Psychology of Religion
+
+07 Language & Linguistics
+    ├── General Linguistics
+    ├── Phonetics & Phonology
+    ├── Syntax & Grammar
+    ├── Semantics & Pragmatics
+    ├── Historical Linguistics
+    └── Specific Languages
+
+08 Literature & Literary Studies
+    ├── Literary Criticism
+    ├── Literary Theory
+    ├── Poetry
+    ├── Drama
+    ├── Fiction
+    ├── Nonfiction & Essays
+    └── World Literature
+        ├── American
+        ├── British
+        ├── European
+        ├── Asian
+        ├── African
+        ├── Latin American
+        └── Indigenous Literatures
+
+09 Arts & Aesthetics
+    ├── Art History
+    ├── Visual Arts
+    ├── Music
+    ├── Theatre & Performance
+    ├── Film & Cinema Studies
+    └── Design & Aesthetics
+
+10 Science
+    ├── Mathematics
+    ├── Physics
+    ├── Astronomy & Cosmology
+    ├── Chemistry
+    ├── Earth & Environmental Sciences
+    │   ├── Geology
+    │   ├── Meteorology
+    │   ├── Oceanography
+    │   └── Climate Science
+    └── Biology & Life Sciences
+        ├── General Biology
+        ├── Botany
+        ├── Zoology
+        ├── Cell & Molecular Biology
+        ├── Genetics
+        ├── Evolutionary Biology
+        ├── Microbiology
+        ├── Ecology
+        └── Neuroscience
+
+11 Technology & Engineering
+    ├── Computer Science
+    │   ├── Programming
+    │   ├── Algorithms & Data Structures
+    │   ├── Artificial Intelligence
+    │   ├── Software Engineering
+    │   ├── Computer Architecture
+    │   └── Cybersecurity
+    ├── Electrical Engineering
+    ├── Mechanical Engineering
+    ├── Civil Engineering
+    ├── Aerospace Engineering
+    └── Materials Science
+
+12 Medicine & Health Sciences
+    ├── Anatomy & Physiology
+    ├── Public Health
+    ├── Epidemiology
+    ├── Pharmacology
+    ├── Internal Medicine
+    ├── Psychiatry
+    ├── Surgery
+    └── Medical Ethics
+
+13 Agriculture & Food
+    ├── Agronomy
+    ├── Food Science
+    ├── Horticulture
+    └── Animal Husbandry
+
+14 Architecture & Design
+    ├── Architecture
+    ├── Urban Planning
+    └── Industrial & Product Design
+
+15 Media & Communication
+    ├── Journalism
+    ├── Media Studies
+    ├── Communication Theory
+    └── Rhetoric & Discourse
+
+16 Interdisciplinary & Emerging Fields
+    ├── Systems Theory
+    ├── Complexity Science
+    ├── Environmental Studies
+    ├── Gender & Sexuality Studies
+    ├── Science & Technology Studies
+    ├── Area & Cultural Studies
+    ├── Information Science
+    └── Cognitive Science
+
+17 Manuals, How-To, & Practical Guides
+    ├── Crafts & DIY
+    ├── Programming Tutorials
+    ├── Language Learning
+    ├── Health & Wellness
+    └── Technical Manuals
+
+
 # Knowledge and Skills for Responsible Engagement in U.S. Society  
 
 ## 1. Civic Knowledge and Engagement  
