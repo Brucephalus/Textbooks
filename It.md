@@ -18,7 +18,7 @@ The roots of it can be traced to a convergence of late 19th- and early 20th-cent
 
 The immediate institutional origins of it lie in postwar Italy. In 1919, Benito Mussolini—once a socialist turned ultranationalist—founded the *Fasci di Combattimento*, a paramilitary movement composed largely of disaffected war veterans. These squads (*squadristi*) violently suppressed leftist movements in Italy’s Red Biennium (1919–1920), aligning themselves with industrialists and landlords who feared communist revolution. With the support of these elites and the tacit approval of the monarchy, Mussolini marched on Rome in 1922 and was appointed Prime Minister. Within a few years, he dismantled parliamentary institutions and established a such dictatorship.
 
-It as an international phenomenon gained credibility in part through Mussolini’s early successes and theatrical pageantry, but its most infamous and structurally radical incarnation came in Germany. The Nazi Party (National Socialist German Workers’ Party), led by Adolf Hitler, synthesized such ultranationalism with virulent antisemitism, racial supremacy, and *Lebensraum* expansionism. The conditions of Weimar collapse—economic depression, national humiliation after the Treaty of Versailles, and paramilitary street violence—created fertile ground for Nazi ascendance. After Hitler’s appointment as Chancellor in 1933, the Nazis rapidly consolidated power through emergency decrees and the destruction of all political opposition, formalizing a genocidal totalitarian state.
+It as an international phenomenon gained credibility in part through Mussolini’s early successes and theatrical pageantry, but its most infamous and structurally radical incarnation came in Germany. The NSDAP Party (National Socialist German Workers’ Party), led by Adolf Hitler, synthesized such ultranationalism with virulent antisemitism, racial supremacy, and *Lebensraum* expansionism. The conditions of Weimar collapse—economic depression, national humiliation after the Treaty of Versailles, and paramilitary street violence—created fertile ground for NSDAP ascendance. After Hitler’s appointment as Chancellor in 1933, the NSDAPs rapidly consolidated power through emergency decrees and the destruction of all political opposition, formalizing a genocidal totalitarian state.
 
 Other such or such-aligned movements arose throughout the interwar period: in Spain (Falangism), Romania (the Iron Guard), Hungary (Arrow Cross), Portugal (under Salazar), and even outside Europe in Japan, Brazil, and Argentina. While these movements differed in structure and emphasis, they typically shared it’s core themes: charismatic leadership, militant nationalism, hierarchical social order, and contempt for liberal democracy.
 
@@ -35,7 +35,7 @@ Institutionally, authoritarian regimes often maintain a façade of legality—pr
 Moreover, it is characterized by a specific set of ideological markers—ultranationalism, palingenesis, leader-worship, glorification of violence, and the scapegoating of internal enemies—that are not necessary to authoritarian rule. A technocratic military junta, a sultanistic monarchy, or a Leninist one-party state may all be authoritarian without being such. It is therefore best understood not as a more intense authoritarianism, but as a qualitatively distinct movement that weaponizes authoritarian methods in service of a radical, mythic political vision.
 #### 1.3.2 It vs. Totalitarianism
 
-It and totalitarianism are frequently conflated, in part because the two overlap in practice—particularly in regimes such as Nazi Germany and Such Italy. However, they are not synonymous. Totalitarianism is a descriptive term that refers to a mode of governance in which the state seeks to dominate every aspect of life: political, social, economic, cultural, even psychological. It, by contrast, is a specific ideological project that may use totalitarian means, but is defined by its unique mythic, nationalist, and revolutionary aspirations.
+It and totalitarianism are frequently conflated, in part because the two overlap in practice—particularly in regimes such as NSDAP Germany and Such Italy. However, they are not synonymous. Totalitarianism is a descriptive term that refers to a mode of governance in which the state seeks to dominate every aspect of life: political, social, economic, cultural, even psychological. It, by contrast, is a specific ideological project that may use totalitarian means, but is defined by its unique mythic, nationalist, and revolutionary aspirations.
 
 The concept of totalitarianism was first developed in the 20th century to describe the all-encompassing nature of regimes like Stalin’s Soviet Union, Hitler’s Germany, and Mussolini’s Italy. These regimes were characterized by centralized control, mass surveillance, pervasive propaganda, the use of terror, and a monopolistic ruling party. However, the ideological goals of each differed. While Soviet totalitarianism pursued an internationalist classless utopia based on Marxist principles, such totalitarianism pursued a racially or culturally purified national community rooted in mythic rebirth and militaristic glory.
 
@@ -137,7 +137,7 @@ The practical implications of the *Führerprinzip* are radical. It dissolves all
 
 Culturally, the leader is mythologized. He is not simply obeyed; he is adored, venerated, and treated as infallible. Such propaganda transforms him into a paternal figure, warrior, and prophet. Portraits, statues, quotations, and parables saturate public life. His speeches are treated as scripture; his instincts are presumed correct. This cult of personality blurs the line between political loyalty and religious devotion.
 
-The *Führerprinzip* also redefines responsibility. Under a regime structured by this principle, no one except the leader is ultimately accountable—yet everyone acts in his name. This creates a system of decentralized zealotry, in which individuals and institutions preemptively align their actions with what they believe the leader *would* want, even in the absence of explicit orders. As historian Ian Kershaw put it in the context of Nazi Germany, this dynamic fosters a culture of “working toward the Führer.”
+The *Führerprinzip* also redefines responsibility. Under a regime structured by this principle, no one except the leader is ultimately accountable—yet everyone acts in his name. This creates a system of decentralized zealotry, in which individuals and institutions preemptively align their actions with what they believe the leader *would* want, even in the absence of explicit orders. As historian Ian Kershaw put it in the context of NSDAP Germany, this dynamic fosters a culture of “working toward the Führer.”
 
 In sum, the *Führerprinzip* is not just an organizational structure; it is the psychological and spiritual foundation of such governance. It renders all civic, moral, and legal obligations subordinate to one figure and his vision. It reconfigures society around command, obedience, and the deification of leadership—preparing the ground for total domination in both public and private life.
 ### 2.6 Militarism and Glorification of Violence
@@ -325,11 +325,11 @@ Autarky is presented by such regimes as the economic counterpart to political in
 
 This results in highly protectionist policies: heavy tariffs, trade barriers, currency controls, and state subsidies for domestic production. Strategic industries—steel, coal, agriculture, oil, and arms—are targeted for rapid development, often regardless of cost-efficiency. The purpose is not to optimize prosperity but to ensure survival in a hostile world and to prepare for war.
 
-In Nazi Germany, for example, the *Four-Year Plan* sought to make the Reich economically self-sufficient by accelerating synthetic substitutes (rubber, oil, fibers), stockpiling resources, and integrating occupied territories into a closed economic bloc. In Such Italy, similar though less successful programs emphasized agricultural self-sufficiency (*la battaglia del grano*) and autarkic industrial development.
+In NSDAP Germany, for example, the *Four-Year Plan* sought to make the Reich economically self-sufficient by accelerating synthetic substitutes (rubber, oil, fibers), stockpiling resources, and integrating occupied territories into a closed economic bloc. In Such Italy, similar though less successful programs emphasized agricultural self-sufficiency (*la battaglia del grano*) and autarkic industrial development.
 
 #### 3.5.2 Lebensraum and Expansion as Economic Doctrine
 
-For such regimes, autarky is ultimately unsustainable without territorial expansion. The doctrine of *Lebensraum* ("living space") in Nazi ideology, for instance, made explicit the link between demographic destiny and imperial conquest. The nation, imagined as a racial organism, required room to grow—and that room could only be taken by force. The economy thus became an engine for militarism, and militarism a vehicle for economic conquest.
+For such regimes, autarky is ultimately unsustainable without territorial expansion. The doctrine of *Lebensraum* ("living space") in NSDAP ideology, for instance, made explicit the link between demographic destiny and imperial conquest. The nation, imagined as a racial organism, required room to grow—and that room could only be taken by force. The economy thus became an engine for militarism, and militarism a vehicle for economic conquest.
 
 Territory was valued not merely for its raw materials but for its potential to be racially colonized, settled, and purified. Indigenous populations were to be dispossessed, enslaved, or exterminated to make way for the racialized “productive class.” Expansion was framed not as aggression but as restoration—of lost greatness, rightful borders, and natural order.
 
@@ -387,7 +387,7 @@ Surveillance and policing are not peripheral features of such governance—they 
 
 #### 4.2.1 Political Police and Secret Services
 
-Such regimes typically develop a parallel police force outside the constraints of ordinary law enforcement. These organizations—such as the Gestapo in Nazi Germany or the OVRA in Such Italy—function not to protect public safety but to enforce ideological conformity. They are empowered to arrest without warrant, detain without trial, and torture without oversight. Their targets are not criminals in a legal sense, but *enemies of the regime*, a category defined so broadly that it includes dissenters, critics, minorities, intellectuals, clergy, and even wavering party loyalists.
+Such regimes typically develop a parallel police force outside the constraints of ordinary law enforcement. These organizations—such as the Gestapo in NSDAP Germany or the OVRA in Such Italy—function not to protect public safety but to enforce ideological conformity. They are empowered to arrest without warrant, detain without trial, and torture without oversight. Their targets are not criminals in a legal sense, but *enemies of the regime*, a category defined so broadly that it includes dissenters, critics, minorities, intellectuals, clergy, and even wavering party loyalists.
 
 Political police operate with impunity, often answerable only to the central leader or a trusted minister. Their methods are designed not just to punish, but to terrorize. The aim is to paralyze dissent through unpredictability and omnipresence.
 
@@ -447,7 +447,7 @@ Mass mobilization is central to such governance—not as a means of democratic p
 
 Such regimes do not seek apathy or passivity; they demand active displays of loyalty. Citizens are mobilized in massive rallies, parades, and demonstrations that simulate consent and unity. But this mobilization is tightly orchestrated, not deliberative. It provides no channels for policy influence, dissent, or contestation. It is a monologue masquerading as a dialogue.
 
-Organizations such as Italy’s *Opera Nazionale Dopolavoro* or Nazi Germany’s *Strength Through Joy* programs exemplify this model. They were designed to absorb all non-political spheres—sports, leisure, labor, youth—into a structure that blurred the line between state and society. By organizing participation around nationalist celebration, these systems turned daily life into an extension of state propaganda.
+Organizations such as Italy’s *Opera NSDAPonale Dopolavoro* or NSDAP Germany’s *Strength Through Joy* programs exemplify this model. They were designed to absorb all non-political spheres—sports, leisure, labor, youth—into a structure that blurred the line between state and society. By organizing participation around nationalist celebration, these systems turned daily life into an extension of state propaganda.
 
 #### 4.4.2 The Illusion of Inclusion
 
@@ -519,7 +519,7 @@ Such views on gender are rooted in a mythologized, patriarchal social order. The
 
 Women in such regimes are defined by their biological and reproductive functions. Their primary role is to give birth to and raise racially or nationally “pure” children. Motherhood is exalted—on condition that it conforms to the needs of the state. Women are not celebrated for autonomy, intellect, or creativity, but for their capacity to serve as wombs of the nation.
 
-In Nazi Germany, for instance, women were awarded medals for bearing large numbers of “Aryan” children. In Such Italy, policies incentivized childbirth and penalized women who remained unmarried or childless. The individual desires or aspirations of women were treated as threats to demographic and ideological survival.
+In NSDAP Germany, for instance, women were awarded medals for bearing large numbers of “Aryan” children. In Such Italy, policies incentivized childbirth and penalized women who remained unmarried or childless. The individual desires or aspirations of women were treated as threats to demographic and ideological survival.
 
 #### 5.1.3 Masculinity as Militarized Identity
 
@@ -589,7 +589,7 @@ In Italy, Mussolini signed the Lateran Accords with the Catholic Church, recogni
 
 Religious figures or institutions that resist such encroachment are marginalized, defrocked, or persecuted. Theology that emphasizes social justice, international solidarity, or pacifism is deemed subversive. Such regimes may not care about doctrine per se, but they ruthlessly target religious rhetoric that fosters independent moral reasoning, especially when it inspires grassroots opposition.
 
-This was evident in Nazi Germany, where the “Confessing Church” was repressed while a Reich-controlled “German Christian” movement propagated an anti-Semitic, Aryanized Christianity stripped of Jewish origins and ethical universality.
+This was evident in NSDAP Germany, where the “Confessing Church” was repressed while a Reich-controlled “German Christian” movement propagated an anti-Semitic, Aryanized Christianity stripped of Jewish origins and ethical universality.
 
 #### 5.3.3 Sacralization of Politics
 
@@ -614,7 +614,7 @@ Racism is not incidental to it—it is structural. Even when not codified into f
 
 #### 5.4.1 Construction of the “Other”
 
-It requires a demonized out-group to define and purify the in-group. This scapegoated class—be it Jews, Roma, Slavs, Black people, Muslims, or immigrants—is not merely portrayed as foreign but as parasitic, polluting, or existentially subversive. In Nazi ideology, Jews were framed as both capitalist exploiters and Marxist saboteurs, an incoherence typical of such propaganda, whose function is affective, not logical.
+It requires a demonized out-group to define and purify the in-group. This scapegoated class—be it Jews, Roma, Slavs, Black people, Muslims, or immigrants—is not merely portrayed as foreign but as parasitic, polluting, or existentially subversive. In NSDAP ideology, Jews were framed as both capitalist exploiters and Marxist saboteurs, an incoherence typical of such propaganda, whose function is affective, not logical.
 
 The “other” is constructed not only through rhetoric but through legislation, surveillance, and visual propaganda. This enemy is blamed for all forms of societal disintegration: economic hardship, cultural decline, political instability, or military defeat. Such scapegoating permits the regime to rechannel class frustration, economic anxiety, and identity crises into genocidal unity.
 
@@ -628,11 +628,11 @@ This vision of state-driven biological control represents the fusion of reaction
 
 In such regimes, rhetorical dehumanization escalates predictably into mass violence. Minorities are described as vermin, disease, or infestation—not metaphors but preludes to extermination. Genocide is not an aberration of it; it is its logical terminus when the dream of purification is allowed to proceed to its full expression.
 
-The Holocaust, the Porajmos (genocide of the Roma), and the Nazi T4 program all embody this logic. So too do lesser-known ethnic cleansings and pogroms committed under such-aligned regimes in Eastern Europe and the Balkans. These campaigns were often accompanied by public rituals of humiliation, forced displacement, and the erasure of history and culture.
+The Holocaust, the Porajmos (genocide of the Roma), and the NSDAP T4 program all embody this logic. So too do lesser-known ethnic cleansings and pogroms committed under such-aligned regimes in Eastern Europe and the Balkans. These campaigns were often accompanied by public rituals of humiliation, forced displacement, and the erasure of history and culture.
 
 #### 5.4.4 Racial Hierarchies and Imperial Fantasies
 
-Such racism is not merely inward-looking; it is also imperial. The belief in racial superiority underpins territorial expansion and colonial subjugation. Mussolini’s Italy described Ethiopia as a “barbaric” land in need of civilizing conquest, deploying chemical weapons and massacres with impunity. Nazi Germany’s Lebensraum doctrine justified conquest of Eastern Europe as a racial struggle against “subhumans.”
+Such racism is not merely inward-looking; it is also imperial. The belief in racial superiority underpins territorial expansion and colonial subjugation. Mussolini’s Italy described Ethiopia as a “barbaric” land in need of civilizing conquest, deploying chemical weapons and massacres with impunity. NSDAP Germany’s Lebensraum doctrine justified conquest of Eastern Europe as a racial struggle against “subhumans.”
 
 In this view, conquest is not just strategic but metaphysical. The racial “right” to dominate becomes an existential obligation to secure the survival and flourishing of the master race.
 
@@ -709,7 +709,7 @@ The such regime under Mussolini, once consolidated, became increasingly defined 
 
 Italy’s first major step toward empire under Mussolini came with the invasion of Ethiopia in 1935. Framed as a campaign of civilizational uplift, it was in fact a genocidal occupation marked by chemical warfare, mass executions, and the complete dismantling of Ethiopian sovereignty. Despite condemnation from the League of Nations, the invasion was celebrated within Italy as proof of such virility and modernity. The regime fused imperialism with racial hierarchy, asserting the superiority of Italians over African populations—a doctrine institutionalized through racial laws in the colonies, and later in Italy itself.
 
-Such Italy also intervened in the Spanish Civil War (1936–1939), sending tens of thousands of troops in support of Francisco Franco’s nationalist rebellion. This both deepened Mussolini’s alliance with Nazi Germany and tested Italy’s military capacity for transnational ideological warfare. The so-called Rome-Berlin Axis formalized in 1936 and later expanded into the Pact of Steel (1939), which aligned such Italy with Hitler’s expansionist ambitions.
+Such Italy also intervened in the Spanish Civil War (1936–1939), sending tens of thousands of troops in support of Francisco Franco’s nationalist rebellion. This both deepened Mussolini’s alliance with NSDAP Germany and tested Italy’s military capacity for transnational ideological warfare. The so-called Rome-Berlin Axis formalized in 1936 and later expanded into the Pact of Steel (1939), which aligned such Italy with Hitler’s expansionist ambitions.
 
 However, Mussolini misjudged Italy’s readiness for total war. When Italy entered World War II in 1940—after France was nearly defeated and Germany appeared unstoppable—it did so without the industrial base, logistical infrastructure, or military coherence needed to sustain global conflict. The result was a cascade of defeats: in North Africa, the Balkans, and eventually on Italian soil itself. Mussolini’s attempts to mimic Hitler’s military success instead exposed the hollowness of such militarism.
 
@@ -722,49 +722,49 @@ Mussolini was captured and executed by partisans in April 1945. His body was mut
 
 Adolf Hitler’s ideological worldview was not a coherent political theory but a fusion of ultranationalist myth, racial pseudoscience, and apocalyptic struggle. It was primarily articulated in *Mein Kampf* (1925–26), which combined autobiographical revisionism with an expansive political program. At its core was the belief that history was driven by an eternal biological conflict between superior and inferior races. For Hitler, the German people (*das Volk*) represented a racially pure and culturally superior force destined for global dominance—if they could be unshackled from weakness, internal decay, and the conspiracies of enemies.
 
-Central to Hitler’s thought was **völkisch nationalism**, a vision of an ethnically homogenous state rooted in blood and soil (*Blut und Boden*). The nation was not defined by borders or institutions but by racial essence and cultural purity. This ideology portrayed the German people as historically betrayed by liberalism, Marxism, and cosmopolitanism—forces allegedly orchestrated by Jews as an alien race. Antisemitism was thus not incidental to Nazism but structural; it explained national humiliation, economic instability, and moral decline.
+Central to Hitler’s thought was **völkisch nationalism**, a vision of an ethnically homogenous state rooted in blood and soil (*Blut und Boden*). The nation was not defined by borders or institutions but by racial essence and cultural purity. This ideology portrayed the German people as historically betrayed by liberalism, Marxism, and cosmopolitanism—forces allegedly orchestrated by Jews as an alien race. Antisemitism was thus not incidental to NSDAPsm but structural; it explained national humiliation, economic instability, and moral decline.
 
-Hitler's worldview was also **deeply apocalyptic and palingenetic**. He framed Germany’s defeat in World War I and the Treaty of Versailles not as final collapse but as a historical nadir demanding rebirth. The Nazi movement was to be the catalyst of this national resurrection—a revolution that would destroy parliamentary democracy, purge the body politic, and forge a racially ordered empire. This palingenetic vision is what placed Nazism squarely within the such tradition, despite its more elaborate racial doctrines.
+Hitler's worldview was also **deeply apocalyptic and palingenetic**. He framed Germany’s defeat in World War I and the Treaty of Versailles not as final collapse but as a historical nadir demanding rebirth. The NSDAP movement was to be the catalyst of this national resurrection—a revolution that would destroy parliamentary democracy, purge the body politic, and forge a racially ordered empire. This palingenetic vision is what placed NSDAPsm squarely within the such tradition, despite its more elaborate racial doctrines.
 
 The concept of **Lebensraum** ("living space") further shaped Hitler’s expansionist ambitions. Rooted in social Darwinism and geopolitical fantasy, it demanded territorial conquest in Eastern Europe to secure land, food, and resources for the German race. The Slavic peoples were to be dispossessed, enslaved, or exterminated. This goal was inseparable from the Final Solution: the genocidal removal of Jews was seen as both a biological necessity and a moral imperative.
 
 Hitler also embraced the **Leader Principle (Führerprinzip)** in its most radical form. The state was to be the expression of the leader’s will, and the leader was to embody the racial soul of the people. Democratic deliberation, checks and balances, and legalism were seen as corruptions of national strength. Authority was not to be mediated but direct, charismatic, and absolute.
 
 Unlike Mussolini, who adapted it opportunistically to Italian institutions, Hitler’s ideological commitment was totalizing. His program demanded perpetual mobilization, mythic symbolism, and the orchestration of mass loyalty through both terror and ritual. The racial utopia he envisioned was incompatible with peace, pluralism, or compromise. It could only be realized through war, purification, and the remaking of civilization along genocidal lines.
-#### 6.2.2 Structure of the Nazi State
+#### 6.2.2 Structure of the NSDAP State
 
-The structure of the Nazi state was deliberately chaotic, marked by overlapping jurisdictions, personal fiefdoms, and institutional redundancy. This apparent dysfunction was not merely a byproduct of incompetence or rapid expansion—it was intrinsic to the regime's consolidation of power. Hitler’s leadership style, often described as “working toward the Führer,” created a system in which subordinates competed to interpret and enact his presumed will, intensifying their own radicalism in the process. This promoted loyalty through dependency, ensured ideological conformity, and prevented the emergence of alternative centers of power.
+The structure of the NSDAP state was deliberately chaotic, marked by overlapping jurisdictions, personal fiefdoms, and institutional redundancy. This apparent dysfunction was not merely a byproduct of incompetence or rapid expansion—it was intrinsic to the regime's consolidation of power. Hitler’s leadership style, often described as “working toward the Führer,” created a system in which subordinates competed to interpret and enact his presumed will, intensifying their own radicalism in the process. This promoted loyalty through dependency, ensured ideological conformity, and prevented the emergence of alternative centers of power.
 
-The Nazi state retained the façade of legal continuity with the Weimar Republic but systematically hollowed out its liberal-democratic structures. The Enabling Act of 1933 gave Hitler legislative powers, effectively nullifying parliamentary democracy. Over time, the traditional bureaucracy, judiciary, and military were subordinated, not abolished. Many civil servants and officers retained their posts, provided they proved loyal or useful. This created a fusion of such ideology with the technocratic and institutional expertise of the old conservative elite, allowing for a more efficient authoritarianism than in Italy.
+The NSDAP state retained the façade of legal continuity with the Weimar Republic but systematically hollowed out its liberal-democratic structures. The Enabling Act of 1933 gave Hitler legislative powers, effectively nullifying parliamentary democracy. Over time, the traditional bureaucracy, judiciary, and military were subordinated, not abolished. Many civil servants and officers retained their posts, provided they proved loyal or useful. This created a fusion of such ideology with the technocratic and institutional expertise of the old conservative elite, allowing for a more efficient authoritarianism than in Italy.
 
-The Nazi Party (NSDAP) developed a sprawling network of parallel institutions—party organizations that duplicated or usurped the roles of the state. These included the SA (Sturmabteilung), initially the party’s paramilitary arm; the SS (Schutzstaffel), which evolved into a vast empire of terror, intelligence, and military operations; and the Hitler Youth, which monopolized socialization of the young. While the SA was largely marginalized after the *Night of the Long Knives* in 1934, the SS under Heinrich Himmler became a state within a state, responsible for policing, racial policy, and the concentration camp system.
+The NSDAP Party (NSDAP) developed a sprawling network of parallel institutions—party organizations that duplicated or usurped the roles of the state. These included the SA (Sturmabteilung), initially the party’s paramilitary arm; the SS (Schutzstaffel), which evolved into a vast empire of terror, intelligence, and military operations; and the Hitler Youth, which monopolized socialization of the young. While the SA was largely marginalized after the *Night of the Long Knives* in 1934, the SS under Heinrich Himmler became a state within a state, responsible for policing, racial policy, and the concentration camp system.
 
 The Gestapo (secret state police) was nominally a state institution but was staffed heavily by SS members and functioned as an instrument of ideological surveillance and repression. Its activities were supported by a vast informant network drawn from the general population, illustrating how mass participation in such regimes can take the form of denunciation, complicity, or opportunistic collaboration.
 
-In administrative terms, the Nazi state embraced decentralization in some areas and hyper-centralization in others. Local gauleiters (party district leaders) exercised substantial autonomy, often overriding municipal authorities, but ultimate power always traced back to Hitler. This contradiction ensured that policy was implemented through personal loyalty rather than procedural consistency.
+In administrative terms, the NSDAP state embraced decentralization in some areas and hyper-centralization in others. Local gauleiters (party district leaders) exercised substantial autonomy, often overriding municipal authorities, but ultimate power always traced back to Hitler. This contradiction ensured that policy was implemented through personal loyalty rather than procedural consistency.
 
-The Nazi regime also developed what historian Ian Kershaw termed a “polycratic” structure—an intentional dispersal of authority across competing institutions like the NSDAP, the SS, the Wehrmacht, the civil service, and industrial cartels. This fostered radicalism through competition and permitted Hitler to remain aloof from many decisions, enhancing his image as an infallible visionary while insulating him from blame.
+The NSDAP regime also developed what historian Ian Kershaw termed a “polycratic” structure—an intentional dispersal of authority across competing institutions like the NSDAP, the SS, the Wehrmacht, the civil service, and industrial cartels. This fostered radicalism through competition and permitted Hitler to remain aloof from many decisions, enhancing his image as an infallible visionary while insulating him from blame.
 
-In sum, the structure of the Nazi state was designed less for efficiency than for domination. It relied on personal allegiance, institutional chaos, ideological saturation, and the mobilization of society into overlapping systems of coercion, indoctrination, and opportunism. The resulting regime was not static but dynamic—continually escalating in violence, extremism, and scope until it collapsed under the weight of global war.
+In sum, the structure of the NSDAP state was designed less for efficiency than for domination. It relied on personal allegiance, institutional chaos, ideological saturation, and the mobilization of society into overlapping systems of coercion, indoctrination, and opportunism. The resulting regime was not static but dynamic—continually escalating in violence, extremism, and scope until it collapsed under the weight of global war.
 #### 6.2.3 Holocaust and Global War
 
 The Holocaust and the Second World War represent the most catastrophic and systematized outcomes of such ideology when implemented through the full machinery of the modern state. These events were not incidental to National Socialism; they were the culmination of its racial, expansionist, and apocalyptic imperatives.
 
-At the core of Nazi ideology was the belief in a racial hierarchy, with “Aryans” at the top and Jews, Slavs, Roma, and others marked for subjugation or extermination. Antisemitism was not merely a prejudice but a structuring principle of the regime's worldview. Jews were portrayed as both a biological threat and a metaphysical enemy—simultaneously capitalist parasites and Marxist conspirators. This dual accusation allowed the Nazis to scapegoat Jews for Germany’s defeat in World War I, economic collapse, and moral “degeneracy,” while portraying genocide as a form of purification and defense.
+At the core of NSDAP ideology was the belief in a racial hierarchy, with “Aryans” at the top and Jews, Slavs, Roma, and others marked for subjugation or extermination. Antisemitism was not merely a prejudice but a structuring principle of the regime's worldview. Jews were portrayed as both a biological threat and a metaphysical enemy—simultaneously capitalist parasites and Marxist conspirators. This dual accusation allowed the NSDAPs to scapegoat Jews for Germany’s defeat in World War I, economic collapse, and moral “degeneracy,” while portraying genocide as a form of purification and defense.
 
 The Holocaust unfolded in stages. It began with legal persecution—the Nuremberg Laws (1935) stripped Jews of citizenship and banned intermarriage. Pogroms like Kristallnacht (1938) escalated violence into coordinated state terror. With the outbreak of World War II and the invasion of Eastern Europe, the scope expanded drastically. The Einsatzgruppen, mobile killing units, followed the Wehrmacht across occupied territories, executing over a million Jews, communists, and Roma in mass shootings.
 
-By 1941, the Nazi regime had committed to the “Final Solution”—the industrialized extermination of European Jewry. Six major extermination camps—Auschwitz, Treblinka, Belzec, Sobibor, Majdanek, and Chelmno—were established in occupied Poland. These facilities, built to kill, used gas chambers, crematoria, forced labor, starvation, and medical experimentation to murder over six million Jews and millions of others.
+By 1941, the NSDAP regime had committed to the “Final Solution”—the industrialized extermination of European Jewry. Six major extermination camps—Auschwitz, Treblinka, Belzec, Sobibor, Majdanek, and Chelmno—were established in occupied Poland. These facilities, built to kill, used gas chambers, crematoria, forced labor, starvation, and medical experimentation to murder over six million Jews and millions of others.
 
-The Holocaust also functioned as a tool of imperial strategy. Nazi planners sought to depopulate vast swaths of Eastern Europe (Generalplan Ost) to create *Lebensraum*—“living space”—for ethnic Germans. Entire populations were enslaved, deported, or annihilated. The logic of such expansionism demanded not only conquest but demographic transformation on a continental scale.
+The Holocaust also functioned as a tool of imperial strategy. NSDAP planners sought to depopulate vast swaths of Eastern Europe (Generalplan Ost) to create *Lebensraum*—“living space”—for ethnic Germans. Entire populations were enslaved, deported, or annihilated. The logic of such expansionism demanded not only conquest but demographic transformation on a continental scale.
 
 This genocidal war of annihilation was inseparable from the global conflict it helped ignite. Hitler’s foreign policy was driven by militarism, revanchism, and racial conquest. The invasion of Poland in 1939 led to British and French declarations of war. The blitzkrieg campaigns that followed in Western Europe, the Balkan interventions, and the 1941 invasion of the Soviet Union marked the rapid metastasis of such war-making.
 
 The alliance with Imperial Japan and Such Italy solidified the Axis coalition, yet it was ideologically inconsistent and tactically unstable. Hitler’s underestimation of Soviet resilience and America’s industrial capacity proved fatal. By the end of 1942, with defeats at Stalingrad and El Alamein, the Axis began to unravel.
 
-The total war pursued by the Nazis—a war that rejected international law, embraced civilian terror, and treated surrender as dishonor—resulted in over 70 million deaths. The genocidal element was not merely a byproduct of conflict but its central engine. It’s global war was one of extermination, enslavement, and ideological purification.
+The total war pursued by the NSDAPs—a war that rejected international law, embraced civilian terror, and treated surrender as dishonor—resulted in over 70 million deaths. The genocidal element was not merely a byproduct of conflict but its central engine. It’s global war was one of extermination, enslavement, and ideological purification.
 
-In its collapse, the Nazi regime left behind a shattered Europe, a permanent scar on human conscience, and a legal and political reckoning that reshaped global norms. The Holocaust not only exposed the extremity of such logic but also catalyzed a redefinition of crimes against humanity, genocide, and the imperative for international human rights law.
+In its collapse, the NSDAP regime left behind a shattered Europe, a permanent scar on human conscience, and a legal and political reckoning that reshaped global norms. The Holocaust not only exposed the extremity of such logic but also catalyzed a redefinition of crimes against humanity, genocide, and the imperative for international human rights law.
 
 #### 6.3 Spanish Falangism and Francoism
 
@@ -807,13 +807,13 @@ Beyond Italy, Germany, and Spain, several other states during the interwar and W
 
 Romania’s such movement, the Iron Guard (also known as the Legion of the Archangel Michael), was one of the most theologically-infused and violent such groups in Europe. Founded by Corneliu Zelea Codreanu in 1927, it fused Orthodox mysticism, ultranationalism, and anti-Semitism with paramilitary mobilization. Unlike Italian or German it, the Iron Guard emphasized martyrdom and spiritual purity, constructing a religious mythos around death and sacrifice for the Romanian nation.
 
-In 1940, after King Carol II’s abdication, Romania briefly became a National Legionary State under General Ion Antonescu and the Iron Guard. However, the alliance fractured in 1941, and Antonescu violently suppressed the Guard. The Antonescu regime continued as a militarized dictatorship, cooperating with Nazi Germany and participating in the Holocaust through pogroms and deportations of Jews and Roma, especially in Transnistria.
+In 1940, after King Carol II’s abdication, Romania briefly became a National Legionary State under General Ion Antonescu and the Iron Guard. However, the alliance fractured in 1941, and Antonescu violently suppressed the Guard. The Antonescu regime continued as a militarized dictatorship, cooperating with NSDAP Germany and participating in the Holocaust through pogroms and deportations of Jews and Roma, especially in Transnistria.
 
 #### 6.4.2 Hungary: Arrow Cross Party and the Horthy Regime
 
-Hungary under Admiral Miklós Horthy functioned as a conservative, authoritarian state during much of the interwar period, but it also tolerated and later incorporated such elements. In 1944, with Nazi support, the Arrow Cross Party—a brutal, explicitly such organization led by Ferenc Szálasi—seized power in a coup. Szálasi’s regime was ultranationalist, anti-Semitic, and terroristic, pursuing mass killings and deportations of Jews even as the war turned decisively against the Axis.
+Hungary under Admiral Miklós Horthy functioned as a conservative, authoritarian state during much of the interwar period, but it also tolerated and later incorporated such elements. In 1944, with NSDAP support, the Arrow Cross Party—a brutal, explicitly such organization led by Ferenc Szálasi—seized power in a coup. Szálasi’s regime was ultranationalist, anti-Semitic, and terroristic, pursuing mass killings and deportations of Jews even as the war turned decisively against the Axis.
 
-The Arrow Cross government was short-lived, lasting only a few months before Soviet forces occupied Hungary. However, during that time it orchestrated death marches, operated concentration camps, and promoted racial purity and national renewal in line with Nazi racial doctrine.
+The Arrow Cross government was short-lived, lasting only a few months before Soviet forces occupied Hungary. However, during that time it orchestrated death marches, operated concentration camps, and promoted racial purity and national renewal in line with NSDAP racial doctrine.
 
 #### 6.4.3 Japan: Imperial It and Ultranationalism
 
@@ -835,40 +835,40 @@ Though these movements varied in emphasis and origin, they collectively demonstr
 ---
 
 ## **7.0 It after 1945**  
-### 7.1 Denazification and the Nuremberg Trials
+### 7.1 DeNSDAPfication and the Nuremberg Trials
 
-The immediate aftermath of World War II witnessed a concerted, though uneven, effort to dismantle the such structures of the Axis powers and to hold their leaders accountable for the crimes committed under such regimes. The processes of **denazification** and the **Nuremberg Trials** marked the formal beginning of the post-such era in Europe, with the goal of both administering justice and preventing the reemergence of such ideology.
+The immediate aftermath of World War II witnessed a concerted, though uneven, effort to dismantle the such structures of the Axis powers and to hold their leaders accountable for the crimes committed under such regimes. The processes of **deNSDAPfication** and the **Nuremberg Trials** marked the formal beginning of the post-such era in Europe, with the goal of both administering justice and preventing the reemergence of such ideology.
 
 #### 7.1.1 Nuremberg Trials: Structure and Significance
 
-The Nuremberg Trials, conducted from 1945 to 1946 by the Allied powers under international law, constituted the first prosecution of crimes against humanity and aggressive war. Twenty-four high-ranking Nazi officials were tried before the International Military Tribunal (IMT), with prominent figures such as Hermann Göring, Rudolf Hess, and Joachim von Ribbentrop among the defendants. The tribunal held individuals personally accountable for genocide, war crimes, and crimes against peace, challenging the principle that state actors are immune when "following orders."
+The Nuremberg Trials, conducted from 1945 to 1946 by the Allied powers under international law, constituted the first prosecution of crimes against humanity and aggressive war. Twenty-four high-ranking NSDAP officials were tried before the International Military Tribunal (IMT), with prominent figures such as Hermann Göring, Rudolf Hess, and Joachim von Ribbentrop among the defendants. The tribunal held individuals personally accountable for genocide, war crimes, and crimes against peace, challenging the principle that state actors are immune when "following orders."
 
 The trials established key legal precedents: the illegality of waging aggressive war, the concept of personal responsibility for state crimes, and the rejection of sovereign immunity for heads of state. They also documented the machinery of the Holocaust, providing an irrefutable public record of the crimes of such regimes.
 
-#### 7.1.2 Broader Denazification Efforts
+#### 7.1.2 Broader DeNSDAPfication Efforts
 
-In Germany, the Allied occupation zones initiated broad programs of denazification aimed at purging former Nazis from public life. These included the dissolution of Nazi organizations, the internment of suspected war criminals, and the reeducation of the German population. Over 8 million Germans had been members of the Nazi Party, and denazification processes classified individuals into categories: major offenders, offenders, lesser offenders, followers, and exonerated persons.
+In Germany, the Allied occupation zones initiated broad programs of deNSDAPfication aimed at purging former NSDAPs from public life. These included the dissolution of NSDAP organizations, the internment of suspected war criminals, and the reeducation of the German population. Over 8 million Germans had been members of the NSDAP Party, and deNSDAPfication processes classified individuals into categories: major offenders, offenders, lesser offenders, followers, and exonerated persons.
 
-In practice, denazification was hampered by several factors: the Cold War realignment, bureaucratic inconsistency, the sheer scale of Nazi involvement in civil society, and the reluctance of many Germans to confront their complicity. By the early 1950s, many former Nazis were reintegrated into professional and political life, especially in West Germany, under the logic of stabilization and anti-communism.
+In practice, deNSDAPfication was hampered by several factors: the Cold War realignment, bureaucratic inconsistency, the sheer scale of NSDAP involvement in civil society, and the reluctance of many Germans to confront their complicity. By the early 1950s, many former NSDAPs were reintegrated into professional and political life, especially in West Germany, under the logic of stabilization and anti-communism.
 
-#### 7.1.3 Denazification Outside Germany
+#### 7.1.3 DeNSDAPfication Outside Germany
 
 Parallel efforts took place in other former Axis states, though with varying degrees of rigor. In Italy, the epuration process targeted Such Party leaders, but the amnesty of 1946 and widespread political pragmatism meant that many former suchs resumed roles in public life. Japan, while undergoing its own purge under U.S. occupation, retained the Emperor and many bureaucratic elites, prioritizing national stability over ideological purification.
 
-In Eastern Europe, denazification took on a more radical and often punitive character under Soviet influence, serving as a mechanism for communist consolidation as well as justice. Trials, executions, and property seizures were more widespread, though not always in line with legal norms or focused exclusively on such culpability.
+In Eastern Europe, deNSDAPfication took on a more radical and often punitive character under Soviet influence, serving as a mechanism for communist consolidation as well as justice. Trials, executions, and property seizures were more widespread, though not always in line with legal norms or focused exclusively on such culpability.
 
 #### 7.1.4 Limitations and Legacy
 
-While the Nuremberg Trials created an enduring moral and legal framework for confronting it and state criminality, the broader denazification campaigns were ultimately shaped by geopolitical concerns. As the Cold War began, anti-communism often eclipsed anti-it, and many such collaborators found protection in the West if they could be useful in intelligence or military contexts. The U.S. and U.K. both employed former Nazis in Cold War operations, most infamously through Operation Paperclip.
+While the Nuremberg Trials created an enduring moral and legal framework for confronting it and state criminality, the broader deNSDAPfication campaigns were ultimately shaped by geopolitical concerns. As the Cold War began, anti-communism often eclipsed anti-it, and many such collaborators found protection in the West if they could be useful in intelligence or military contexts. The U.S. and U.K. both employed former NSDAPs in Cold War operations, most infamously through Operation Paperclip.
 
-Nonetheless, the postwar reckoning with it laid the groundwork for modern human rights law, transitional justice, and international accountability mechanisms. The legacy of denazification remains mixed—partly moral triumph, partly political compromise—but it was an essential, if incomplete, step in confronting the catastrophic consequences of such rule.
+Nonetheless, the postwar reckoning with it laid the groundwork for modern human rights law, transitional justice, and international accountability mechanisms. The legacy of deNSDAPfication remains mixed—partly moral triumph, partly political compromise—but it was an essential, if incomplete, step in confronting the catastrophic consequences of such rule.
 ### 7.2 Continuities in Postwar Far-Right Movements
 
 Despite the military defeat of such regimes in 1945, the ideological, institutional, and sociocultural residues of it persisted throughout the postwar period, often mutating to adapt to new political conditions. Far-right movements across Europe and beyond adopted new symbols, rhetoric, and strategic alliances while retaining many of the core principles of such ideology. This continuity can be traced through formal political parties, paramilitary networks, intelligence operations, and the ideological infrastructure of reactionary nationalism.
 
 #### 7.2.1 Survival and Reintegration of Former Suchs
 
-In both Western and Eastern Europe, large numbers of former such officials, collaborators, and sympathizers were reintegrated into postwar societies. In West Germany, former Nazis occupied bureaucratic, judicial, and military positions well into the 1950s, aided by amnesty laws and Cold War priorities. The same was true in Italy, where former Such Party members were often absorbed into the Christian Democrats or other right-leaning factions. In Spain, Franco retained full authoritarian control until his death in 1975, preserving such-style corporatism and repression under a different legal pretext.
+In both Western and Eastern Europe, large numbers of former such officials, collaborators, and sympathizers were reintegrated into postwar societies. In West Germany, former NSDAPs occupied bureaucratic, judicial, and military positions well into the 1950s, aided by amnesty laws and Cold War priorities. The same was true in Italy, where former Such Party members were often absorbed into the Christian Democrats or other right-leaning factions. In Spain, Franco retained full authoritarian control until his death in 1975, preserving such-style corporatism and repression under a different legal pretext.
 
 This normalization of such actors created a political undercurrent that could be drawn upon by far-right populists, nationalist revisionists, and anti-communist agitators across the postwar West.
 
@@ -880,7 +880,7 @@ The protection or recruitment of such individuals—often justified as necessary
 
 #### 7.2.3 Cold War Anti-Communism as a Vehicle for Such Continuity
 
-The ideological urgency of anti-communism allowed far-right figures to rebrand themselves as defenders of the West. In the U.S., Operation Paperclip and similar programs brought former Nazi scientists and intelligence officers into government service. In West Germany, the Gehlen Organization—staffed largely by ex-Wehrmacht and SS officers—formed the backbone of the postwar intelligence agency, the BND.
+The ideological urgency of anti-communism allowed far-right figures to rebrand themselves as defenders of the West. In the U.S., Operation Paperclip and similar programs brought former NSDAP scientists and intelligence officers into government service. In West Germany, the Gehlen Organization—staffed largely by ex-Wehrmacht and SS officers—formed the backbone of the postwar intelligence agency, the BND.
 
 Anti-communism provided political cover for such-aligned rhetoric and policy, particularly when linked with national security, anti-Soviet propaganda, or critiques of liberalism as weak or decadent.
 
@@ -894,7 +894,7 @@ In many cases, these parties remained marginal electorally but served as incubat
 
 Many institutions created or co-opted by such regimes—police, courts, civil registries—remained intact after 1945, especially where reconstruction was managed by domestic elites rather than external occupiers. This led to an institutional continuity that subtly reinforced reactionary social norms, surveillance practices, and unequal application of the law.
 
-In some countries, legal ambiguity about the definition of it and the limits of free speech also protected post-such activism. Germany and Austria criminalized certain forms of Holocaust denial and Nazi glorification, while other countries tolerated or even protected nationalist extremism under broad definitions of political expression.
+In some countries, legal ambiguity about the definition of it and the limits of free speech also protected post-such activism. Germany and Austria criminalized certain forms of Holocaust denial and NSDAP glorification, while other countries tolerated or even protected nationalist extremism under broad definitions of political expression.
 
 #### 7.2.6 Influence on Post-Colonial and Authoritarian Regimes
 
@@ -952,7 +952,7 @@ These regimes shape national identity, school curricula, public monuments, and t
 
 Such historical revisionism typically operates through strategies of denial (e.g., Holocaust denial), minimization (e.g., emphasizing infrastructure projects over war crimes), or reframing (e.g., portraying such regimes as bulwarks against communism or protectors of tradition). Such efforts often appear in far-right publications, populist media, and increasingly, social media.
 
-Some revisionists argue that it was a necessary or even noble response to social disorder or decadence, often drawing on aestheticized portrayals that obscure brutality. Others selectively condemn Nazi excesses while celebrating national such variants—claiming that their own country’s version was milder, more patriotic, or less racist.
+Some revisionists argue that it was a necessary or even noble response to social disorder or decadence, often drawing on aestheticized portrayals that obscure brutality. Others selectively condemn NSDAP excesses while celebrating national such variants—claiming that their own country’s version was milder, more patriotic, or less racist.
 
 #### 7.4.3 Rehabilitation through Cultural Nostalgia
 
@@ -964,7 +964,7 @@ This nostalgia often merges with broader reactionary sentiments—yearning for a
 
 Memory politics is not only retrospective but also strategic. In contemporary far-right politics, revisionist tropes are used to delegitimize liberal or leftist institutions. Antiit may be framed as a totalitarian ideology in itself; civil rights movements may be recast as “anti-white” or “anti-national.” In Eastern Europe, for instance, post-Soviet regimes have sometimes conflated communism and it under the vague label of “totalitarianism,” weakening the distinct moral and historical condemnations of each.
 
-Elsewhere, right-wing parties invoke “freedom of speech” to defend historical distortions, or depict their own leaders as victims of persecution akin to postwar “denazification”—casting themselves as martyrs for truth or national sovereignty.
+Elsewhere, right-wing parties invoke “freedom of speech” to defend historical distortions, or depict their own leaders as victims of persecution akin to postwar “deNSDAPfication”—casting themselves as martyrs for truth or national sovereignty.
 
 #### 7.4.5 Counter-Memory and Vigilant Historiography
 
@@ -1007,7 +1007,7 @@ Yet many such regimes relied heavily on conservative elites, capitalist interest
 
 #### 8.1.5 Functionalist vs. Intentionalist Approaches
 
-In historical scholarship, particularly regarding Nazi Germany, the functionalist–intentionalist debate has influenced definitions of it. Intentionalists argue that such regimes were ideologically driven by a clear program and centralized will (e.g., Hitler’s long-standing goal of racial extermination), while functionalists stress the improvisational, bureaucratic, and decentralized nature of such rule.
+In historical scholarship, particularly regarding NSDAP Germany, the functionalist–intentionalist debate has influenced definitions of it. Intentionalists argue that such regimes were ideologically driven by a clear program and centralized will (e.g., Hitler’s long-standing goal of racial extermination), while functionalists stress the improvisational, bureaucratic, and decentralized nature of such rule.
 
 This distinction affects how it is interpreted: as a top-down imposition of ideology or as a chaotic assemblage of power blocs, bureaucrats, and competing interests that radicalized through internal dynamics and opportunism.
 
@@ -1105,7 +1105,7 @@ Such regimes in power demonstrate both ideological rigidity and tactical flexibi
 
 #### 8.4.5 Stage Five: Radicalization or Collapse
 
-Over time, such regimes tend either to radicalize or to collapse. Radicalization can take the form of genocidal policies (as with Nazi Germany) or reckless militarism that leads to catastrophic war. Such regimes are inherently unstable—dependent on crises for legitimacy and cohesion, lacking mechanisms for peaceful succession, and increasingly isolated as resistance builds. Collapse can occur through military defeat, internal coups, or revolutionary uprising. Unlike stable autocracies, such regimes burn brightly and destructively before imploding.
+Over time, such regimes tend either to radicalize or to collapse. Radicalization can take the form of genocidal policies (as with NSDAP Germany) or reckless militarism that leads to catastrophic war. Such regimes are inherently unstable—dependent on crises for legitimacy and cohesion, lacking mechanisms for peaceful succession, and increasingly isolated as resistance builds. Collapse can occur through military defeat, internal coups, or revolutionary uprising. Unlike stable autocracies, such regimes burn brightly and destructively before imploding.
 
 #### 8.4.6 Analytical Value and Criticisms
 
@@ -1196,7 +1196,7 @@ Such narratives often invoke a mythic past in contrast to a decadent present, ca
 
 #### 9.2.4 Subversion Through Irony and Meme Culture
 
-Whereas historical it used blunt iconography, modern digital it often cloaks itself in irony and satire. Online such aesthetics exploit meme culture—repackaging white supremacist symbols, Nazi references, or accelerationist slogans in deliberately absurd or comedic formats. This tactic creates plausible deniability while radicalizing audiences through repetition and emotional desensitization. Platforms like 4chan and Telegram serve as incubators for such aesthetics, which then bleed into mainstream discourse via influencers, podcasts, or trolling campaigns.
+Whereas historical it used blunt iconography, modern digital it often cloaks itself in irony and satire. Online such aesthetics exploit meme culture—repackaging white supremacist symbols, NSDAP references, or accelerationist slogans in deliberately absurd or comedic formats. This tactic creates plausible deniability while radicalizing audiences through repetition and emotional desensitization. Platforms like 4chan and Telegram serve as incubators for such aesthetics, which then bleed into mainstream discourse via influencers, podcasts, or trolling campaigns.
 
 #### 9.2.5 Uniformity and the Aesthetic of Control
 
