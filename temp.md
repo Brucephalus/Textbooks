@@ -1,0 +1,5 @@
+| Term               | Primary Function                        | Legal Justification (Typically) | Target Groups                    | Death as Goal? | Role of Slave Labor                             |
+|--------------------|------------------------------------------|----------------------------------|----------------------------------|----------------|--------------------------------------------------|
+| Internment Camp     | Detention without trial (security/control) | Wartime or emergency powers      | Civilians seen as security risks | No             | Minimal or incidental; not central to purpose    |
+| Concentration Camp  | Suppression and control via mass detention | Political or ideological         | Political, ethnic, or social groups | Sometimes      | Central and systemic; prisoners as labor units   |
+| Extermination Camp  | Systematic, industrialized mass murder     | Genocidal                        | Specific populations marked for death | Yes            | Instrumental only if it expedites killing        |
