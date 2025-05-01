@@ -1,4 +1,4 @@
-#Guide to Strong and Ethical Living: A Real Man’s Code
+# Guide to Strong and Ethical Living: A Real Man’s Code
 
 ## 1.0 Introduction: What This Guide Is About
 
