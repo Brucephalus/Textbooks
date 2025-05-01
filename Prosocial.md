@@ -1,3 +1,5 @@
+#Guide to Strong and Ethical Living: A Real Man’s Code
+
 ## 1.0 Introduction: What This Guide Is About
 
 Most guys are taught two choices: be “nice” and get ignored, or be “hard” and get feared. One looks weak, the other feels fake. Neither one leads to real power or real respect. This guide gives you a third option—the one no one talks about because it can’t be packaged in a meme or shouted in a rant.
