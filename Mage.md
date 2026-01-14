@@ -25,7 +25,7 @@ The class can be flavored by spell selection and subclass features.
   
 # Mage Features  
 
-| Level | Cantrips Known | Spells Prepared | Spell Levels Per Long Rest | Maximum Spell Level | Class Features |
+| Level | Cantrips Known | Spells Prepared | Spell Charges Per Long Rest | Maximum Spell Level | Class Features |
 | ----- | -------------- | --------------- | -------------------------- | ------------------- | ------------------------------------- |
 | 1 | 2 | 3 | 8 | 1 | Innate Spellcasting, Magical Recovery |
 | 2 | 2 | 4 | 12 | 1 | Unarmored Defense |
@@ -57,10 +57,8 @@ When you reach Mage levels 4, 10, and 14, you learn another qualifying cantrip o
 
 *As of this writing, the qualifying cantrips are Blade Ward, Control Flames, Dancing Lights, Druidcraft, Elementalism, Encode Thoughts, Friends, Guidance, Gust, Light, Mage Hand, Magic Stone, Mending, Message, Minor Illusion, Mold Earth, Prestidigitation, Resistance, Shape Water, Shillelagh, Spare the Dying, Thaumaturgy*
   
-***Spell Levels.*** The Mage Features table shows how many spell levels you have to cast spells of levels 1—5. The table also shows the maximum level of those spells. You begin with 8 spell levels at Mage level 1. Each time you reach Mage levels 2—19, the number of spell levels you have increases by 4. When you reach Mage Level 20, the number of spell levels you have increases by 8. You regain all expended Innate Spellcasting spell levels when you finish a Long Rest.  
-For example, when you're a level 5 Mage, you have twenty-four spell levels. To cast the level 2 spell *Scorching Ray*, you must spend two of those levels, and you cast it as a level 2 spell. To cast the level 1 spell *Cure Wounds*, you must spend one of those levels, and you cast it as a level 1 spell. To cast the level 1 spell *Armor of Agathys* as a level 2 spell, you must spend two of those levels, and you cast it as a level 2 spell.  
-
-*This class does not use spell slots to cast spells. It uses a system comparable to a magic item such as a Staff of Power.*
+***Spell Charges.*** A mage uses spell charges instead of spell slots to fuel spells. You gain a pool of spell charges. You expend a number of spell charges to create a spell slot of a level equal to the number of spell charges expended, and then use that slot to cast a spell. You can’t reduce your spell charge total to less than 0, and you regain all spent spell charges when you finish a long rest. The Mage Features table shows how many spell charges you have to cast spells of levels 1—5. The table also shows the maximum level of those spells. Even though you might have enough charges to create a slot above this maximum, you can’t do so. You begin with 8 spell charges at Mage level 1. Each time you reach Mage levels 2—19, the number of spell charges you have increases by 4. When you reach Mage Level 20, the number of spell charges you have increases by 8. You regain all expended Innate Spellcasting spell charges when you finish a Long Rest.  
+For example, when you're a level 5 Mage, you have twenty-four spell charges. To cast the level 2 spell *Scorching Ray*, you must spend two of those charges, and you cast it as a level 2 spell. To cast the level 1 spell Cure Wounds*, you must spend one of those charges, and you cast it as a level 1 spell. To cast the level 1 spell *Armor of Agathys* as a level 2 spell, you must spend two of those charges, and you cast it as a level 2 spell.  
   
 ***Prepared Spells of Level 1+.*** You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose three level 1 spells.  
 The number of spells on your list increases as you gain Mage levels (one additional spell per level), as shown in the Prepared Spells column of the Mage Features table. Whenever that number increases, choose additional spells until the number of spells on your list matches the number in the table. The chosen spells must be of a level no higher than one-fourth your Mage level (rounded up), as shown in the table's Maximum Spell Level column for your level. When you reach level 6, for example, you learn a new spell, which can be of levels 1—2.  
@@ -73,7 +71,7 @@ If another Mage feature gives you spells that you always have prepared, those sp
 ***Spellcasting Focus.*** You can use a Spellcasting Focus for your Mage spells.  
   
 # Level 1: Magical Recovery  
-At the end of a Short Rest, you regain expended Innate Spellcasting spell levels but no more than a number equal to half your maximum. Once you use this feature, you can't do so again until you finish a Long Rest.  
+At the end of a Short Rest, you regain expended Innate Spellcasting spell charges but no more than a number equal to half your maximum. Once you use this feature, you can't do so again until you finish a Long Rest.  
   
 # Level 2: Unarmored Defense  
 While you aren't wearing any armor, your base Armor Class equals 10 plus your Dexterity and Constitution modifiers. You can use a Shield and still gain this benefit.  
@@ -81,8 +79,7 @@ While you aren't wearing any armor, your base Armor Class equals 10 plus your De
 # Level 3: Mage Subclass  
 You gain a Mage subclass of your choice. A subclass is a specialization that grants you features at certain Mage levels. For the rest of your career, you gain each of your subclass's features that are of your Mage level or lower.  
 
-*Subclass features must not make the class significantly more powerful in combat. Like the 2014 Cleric or Monk, the base class contains all of the necessary combat power.
-Possible features: Specific spells that are always prepared, any class or subclass feature that can be exchanged with a spell slot, metamagic (at the cost of 1 spell level), medium armor training, additional weapons proficiencies, specific damaging cantrips, ritual casting.*
+*Subclass features must not make the class significantly more powerful in combat. Like the 2014 Cleric or Monk, the base class contains all of the necessary combat power.*
   
 # Level 4: Ability Score Improvement  
 You gain the Ability Score Improvement feat or another feat of your choice for which you qualify. You gain this feature again at Mage levels 8, 12, 14, and 16.  
