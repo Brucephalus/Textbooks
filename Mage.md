@@ -54,17 +54,13 @@ You gain the ability to cast spells.
   
 ***Cantrips.*** You know two qualifying cantrips of your choice. A qualifying cantrip either deals no damage or has a casting time of 1 Bonus Action. Whenever you gain a Mage level, you can replace one of your cantrips from this feature with another qualifying cantrip of your choice.  
 When you reach Mage levels 4, 10, and 14, you learn another qualifying cantrip of your choice, as shown in the Cantrips column of the Mage Features table.  
-```
-As of this writing, the qualifying cantrips are Blade Ward, Control Flames, Dancing Lights, Druidcraft, Elementalism, Encode Thoughts, Friends, Guidance, Gust, Light, Mage Hand, Magic Stone, Mending, Message, Minor Illusion, Mold Earth, Prestidigitation, Resistance, Shape Water, Shillelagh, Spare the Dying, Thaumaturgy
 
-```
+*As of this writing, the qualifying cantrips are Blade Ward, Control Flames, Dancing Lights, Druidcraft, Elementalism, Encode Thoughts, Friends, Guidance, Gust, Light, Mage Hand, Magic Stone, Mending, Message, Minor Illusion, Mold Earth, Prestidigitation, Resistance, Shape Water, Shillelagh, Spare the Dying, Thaumaturgy*
   
 ***Spell Levels.*** The Mage Features table shows how many spell levels you have to cast spells of levels 1—5. The table also shows the maximum level of those spells. You begin with 8 spell levels at Mage level 1. Each time you reach Mage levels 2—19, the number of spell levels you have increases by 4. When you reach Mage Level 20, the number of spell levels you have increases by 8. You regain all expended Innate Spellcasting spell levels when you finish a Long Rest.  
 For example, when you're a level 5 Mage, you have twenty-four spell levels. To cast the level 2 spell*** ****Scorching Ray*, you must spend two of those levels, and you cast it as a level 2 spell. To cast the level 1 spell*** ****Cure Wounds*, you must spend one of those levels, and you cast it as a level 1 spell. To cast the level 1 spell*** ****Armor of Agathys* as a level 2 spell, you must spend two of those levels, and you cast it as a level 2 spell.  
-```
-This class does not use spell slots to cast spells. It uses a system comparable to a magic item such as a Staff of Power.
 
-```
+*This class does not use spell slots to cast spells. It uses a system comparable to a magic item such as a Staff of Power.*
   
 ***Prepared Spells of Level 1+.*** You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose three level 1 spells.  
 The number of spells on your list increases as you gain Mage levels (one additional spell per level), as shown in the Prepared Spells column of the Mage Features table. Whenever that number increases, choose additional spells until the number of spells on your list matches the number in the table. The chosen spells must be of a level no higher than one-fourth your Mage level (rounded up), as shown in the table's Maximum Spell Level column for your level. When you reach level 6, for example, you learn a new spell, which can be of levels 1—2.  
@@ -84,25 +80,19 @@ While you aren't wearing any armor, your base Armor Class equals 10 plus your De
   
 # Level 3: Mage Subclass  
 You gain a Mage subclass of your choice. A subclass is a specialization that grants you features at certain Mage levels. For the rest of your career, you gain each of your subclass's features that are of your Mage level or lower.  
-```
-Subclass features must not make the class significantly more powerful in combat. Like the 2014 Cleric or Monk, the base class contains all of the necessary combat power.
-Possible features: Specific spells that are always prepared, any class or subclass feature that can be exchanged with a spell slot, metamagic (at the cost of 1 spell level), medium armor training, additional weapons proficiencies, specific damaging cantrips, ritual casting.
 
-```
+*Subclass features must not make the class significantly more powerful in combat. Like the 2014 Cleric or Monk, the base class contains all of the necessary combat power.
+Possible features: Specific spells that are always prepared, any class or subclass feature that can be exchanged with a spell slot, metamagic (at the cost of 1 spell level), medium armor training, additional weapons proficiencies, specific damaging cantrips, ritual casting.*
   
 # Level 4: Ability Score Improvement  
 You gain the Ability Score Improvement feat or another feat of your choice for which you qualify. You gain this feature again at Mage levels 8, 12, 14, and 16.  
-```
-Epic Boon feats are sloppy.
 
-```
+*Epic Boon feats are sloppy.*
   
 # Level 6: Bonus Proficiencies  
 You gain proficiency in Dexterity and Intelligence Saving Throws.  
-```
-PC Classes other than the Paladin and Monk are deficient in saving throws.
 
-```
+*PC Classes other than the Paladin and Monk are deficient in saving throws.*
   
 # Level 10: Subclass Feature  
 You gain your Level 10 subclass features.  
