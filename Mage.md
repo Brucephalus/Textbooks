@@ -12,7 +12,7 @@
 | Starting Equipment | 50 GP |
   
   
-The Mage is a flexible, simple, generic caster. It is inspired by the Spellcaster sidekick from *Tasha's Cauldron of Everything*. It is designed to be as powerful as a 2024 PC class.  
+The Mage is a flexible, simple, generic caster. It is inspired by the Spellcaster sidekick from *Tasha's Cauldron of Everything*. It is designed to be as powerful as a 2024 PC class. 
 The class can be flavored by spell selection and subclass features.  
   
 # Becoming a Mage...  
@@ -52,16 +52,17 @@ The class can be flavored by spell selection and subclass features.
 # Level 1: Innate Spellcasting  
 You gain the ability to cast spells.  
   
-***Cantrips.*** You know two qualifying cantrips of your choice. A qualifying cantrip either deals no damage or has a casting time of 1 Bonus Action. Whenever you gain a Mage level, you can replace one of your cantrips from this feature with another qualifying cantrip of your choice.  
+***Cantrips.*** You know two qualifying cantrips of your choice. A qualifying cantrip either deals no damage or has a casting time of 1 Bonus Action. As of this writing, the qualifying cantrips are *Blade Ward, Control Flames, Dancing Lights, Druidcraft, Elementalism, Encode Thoughts, Friends, Guidance, Gust, Light, Mage Hand, Magic Stone, Mending, Message, Minor Illusion, Mold Earth, Prestidigitation, Resistance, Shape Water, Shillelagh, Spare the Dying, Thaumaturgy*. Whenever you gain a Mage level, you can replace one of your cantrips from this feature with another qualifying cantrip of your choice.  
 When you reach Mage levels 4, 10, and 14, you learn another qualifying cantrip of your choice, as shown in the Cantrips column of the Mage Features table.  
 
-*As of this writing, the qualifying cantrips are Blade Ward, Control Flames, Dancing Lights, Druidcraft, Elementalism, Encode Thoughts, Friends, Guidance, Gust, Light, Mage Hand, Magic Stone, Mending, Message, Minor Illusion, Mold Earth, Prestidigitation, Resistance, Shape Water, Shillelagh, Spare the Dying, Thaumaturgy*
-  
-***Spell Charges.*** A mage uses spell charges instead of spell slots to fuel spells. You gain a pool of spell charges. You expend a number of spell charges to cast a spell at a level equal to the number of spell charges expended. You can’t reduce your spell charge total to less than 0, and you regain all spent spell charges when you finish a long rest. The Mage Features table shows how many spell charges you have to cast spells of levels 1—5. The table also shows the maximum level of those spells. Even though you might have enough charges to cast a spell above this maximum, you can’t do so. Some spells require casters to expend one or more spell slots to apply the spell’s effects. A mage can meet this requirement by expending spell charges totaling the same level or higher in place of the required spell slots.
+***Spell Charges.*** A mage uses spell charges instead of spell slots to fuel spells. You gain a pool of spell charges. You expend a number of spell charges to cast a spell at a level equal to the number of spell charges expended. You can’t reduce your spell charge total to less than 0, and you regain all spent spell charges when you finish a long rest. The Mage Features table shows how many spell charges you have to cast spells of levels 1—5. The table also shows the maximum level of those spells. Even though you might have enough charges to cast a spell above this maximum, you can’t do so.
+
+Some game effects require casters to expend one or more spell slots to apply that effect. A mage can meet this requirement by expending spell charges totaling the same level or higher in place of the required spell slots.
+
 You begin with 8 spell charges at Mage level 1. Each time you reach Mage levels 2—19, the number of spell charges you have increases by 4. When you reach Mage Level 20, the number of spell charges you have increases by 8. You regain all expended Innate Spellcasting spell charges when you finish a Long Rest.  
 For example, when you're a level 5 Mage, you have twenty-four spell charges. To cast the level 2 spell *Scorching Ray*, you must spend two of those charges, and you cast it as a level 2 spell. To cast the level 1 spell Cure Wounds*, you must spend one of those charges, and you cast it as a level 1 spell. To cast the level 1 spell *Armor of Agathys* as a level 2 spell, you must spend two of those charges, and you cast it as a level 2 spell.  
   
-***Prepared Spells of Level 1+.*** You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose three level 1 spells.  
+***Prepared Spells of Level 1+.*** You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose three level 1 spells.  *Armor of Agathys*, *Hellish Rebuke*, and *Spellfire Flare* are recommended.
 The number of spells on your list increases as you gain Mage levels (one additional spell per level), as shown in the Prepared Spells column of the Mage Features table. Whenever that number increases, choose additional spells until the number of spells on your list matches the number in the table. The chosen spells must be of a level no higher than one-fourth your Mage level (rounded up), as shown in the table's Maximum Spell Level column for your level. When you reach level 6, for example, you learn a new spell, which can be of levels 1—2.  
 If another Mage feature gives you spells that you always have prepared, those spells don't count against the number of spells you can prepare with this feature, but those spells otherwise count as Mage spells for you.  
   
@@ -80,7 +81,7 @@ While you aren't wearing any armor, your base Armor Class equals 10 plus your De
 # Level 3: Mage Subclass  
 You gain a Mage subclass of your choice. A subclass is a specialization that grants you features at certain Mage levels. For the rest of your career, you gain each of your subclass's features that are of your Mage level or lower.  
 
-*Subclass features must not make the class significantly more powerful in combat. Like the 2014 Cleric or Monk, the base class contains all of the necessary combat power.*
+*Subclass features do not make the class significantly more powerful in combat. Like the 2014 Cleric, the base class contains all of the necessary combat power.*
   
 # Level 4: Ability Score Improvement  
 You gain the Ability Score Improvement feat or another feat of your choice for which you qualify. You gain this feature again at Mage levels 8, 12, 14, and 16.  
