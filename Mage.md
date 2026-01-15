@@ -27,32 +27,32 @@ The class can be flavored by spell selection and subclass features.
 
 | Level | Cantrips Known | Spells Prepared | Spell Charges Per Long Rest | Maximum Spell Level | Class Features |
 | ----- | -------------- | --------------- | -------------------------- | ------------------- | ------------------------------------- |
-| 1 | 2 | 3 | 8 | 1 | Innate Spellcasting, Magical Recovery |
-| 2 | 2 | 4 | 12 | 1 | Unarmored Defense |
-| 3 | 2 | 5 | 16 | 1 | Subclass |
-| 4 | 3 | 6 | 20 | 1 | Feat |
-| 5 | 3 | 7 | 24 | 2 | — |
-| 6 | 3 | 8 | 28 | 2 | Bonus Proficiencies |
-| 7 | 3 | 9 | 32 | 2 | — |
-| 8 | 3 | 10 | 36 | 2 | Feat |
-| 9 | 3 | 11 | 40 | 3 | — |
-| 10 | 4 | 12 | 44 | 3 | Subclass Feature |
-| 11 | 4 | 13 | 48 | 3 | — |
-| 12 | 4 | 14 | 52 | 3 | Feat |
-| 13 | 4 | 15 | 56 | 4 | — |
-| 14 | 5 | 16 | 60 | 4 | Feat |
-| 15 | 5 | 17 | 64 | 4 | — |
-| 16 | 5 | 18 | 68 | 4 | Feat |
-| 17 | 5 | 19 | 72 | 5 | — |
-| 18 | 5 | 20 | 76 | 5 | Bonus Proficiencies |
-| 19 | 5 | 21 | 80 | 5 | — |
-| 20 | 5 | 22 | 88 | 5 | Subclass Feature |
+| 1 | 2 | 2 | 8 | 1 | Innate Spellcasting, Magical Recovery |
+| 2 | 2 | 3 | 12 | 1 | Unarmored Defense |
+| 3 | 2 | 3 | 16 | 1 | Subclass |
+| 4 | 3 | 4 | 20 | 1 | Feat |
+| 5 | 3 | 4 | 24 | 2 | — |
+| 6 | 3 | 5 | 28 | 2 | Bonus Proficiencies |
+| 7 | 3 | 5 | 32 | 2 | — |
+| 8 | 3 | 6 | 36 | 2 | Feat |
+| 9 | 3 | 7 | 40 | 3 | — |
+| 10 | 3 | 7 | 44 | 3 | Subclass Feature |
+| 11 | 3 | 8 | 48 | 3 | — |
+| 12 | 3 | 8 | 52 | 3 | Feat |
+| 13 | 3 | 9 | 56 | 4 | — |
+| 14 | 3 | 10 | 60 | 4 | Feat |
+| 15 | 3 | 10 | 64 | 4 | — |
+| 16 | 3 | 11 | 68 | 4 | Feat |
+| 17 | 3 | 11 | 72 | 5 | — |
+| 18 | 3 | 12 | 76 | 5 | Bonus Proficiencies |
+| 19 | 3 | 12 | 80 | 5 | — |
+| 20 | 3 | 13 | 88 | 5 | Subclass Feature |
   
   
 # Level 1: Innate Spellcasting  
 You gain the ability to cast spells.  
   
-***Cantrips.*** You know two qualifying cantrips of your choice. A qualifying cantrip either deals no damage or has a casting time of 1 Bonus Action. As of this writing, the qualifying cantrips are *Blade Ward, Control Flames, Dancing Lights, Druidcraft, Elementalism, Encode Thoughts, Friends, Guidance, Gust, Light, Mage Hand, Magic Stone, Mending, Message, Minor Illusion, Mold Earth, Prestidigitation, Resistance, Shape Water, Shillelagh, Spare the Dying, Thaumaturgy*. Whenever you gain a Mage level, you can replace one of your cantrips from this feature with another qualifying cantrip of your choice.  
+***Cantrips.*** You know two qualifying cantrips of your choice. A qualifying cantrip deals no damage. Whenever you gain a Mage level, you can replace one of your cantrips from this feature with another qualifying cantrip of your choice.  
 When you reach Mage levels 4, 10, and 14, you learn another qualifying cantrip of your choice, as shown in the Cantrips column of the Mage Features table.  
 
 ***Spell Charges.*** A mage uses spell charges instead of spell slots to fuel spells. You gain a pool of spell charges. You expend a number of spell charges to cast a spell at a level equal to the number of spell charges expended. You can’t reduce your spell charge total to less than 0, and you regain all spent spell charges when you finish a long rest. The Mage Features table shows how many spell charges you have to cast spells of levels 1—5. The table also shows the maximum level of those spells. Even though you might have enough charges to cast a spell above this maximum, you can’t do so.
