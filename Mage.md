@@ -12,7 +12,7 @@
 | Starting Equipment | 50 GP |
   
   
-The Mage is a flexible, simple, generic caster. It is inspired by the Spellcaster sidekick from *Tasha's Cauldron of Everything*. It is designed to be as powerful as a 2024 PC class. 
+The Mage is a flexible, simple, generic caster. It is inspired by the Spellcaster sidekick from Tasha's Cauldron of Everything and by the Spell Point system presented in the Dungeon Master's Guide (2104). It is designed to be as quantitatively powerful as a 2024 class needs to be while being as qualitatively underpowered as possible.
 The class can be flavored by spell selection and subclass features.  
   
 # Becoming a Mage...  
@@ -57,7 +57,7 @@ When you reach Mage levels 4, you learn another Mage cantrip of your choice, as 
 
 ***Spell Charges.*** A mage uses spell charges instead of spell slots to fuel spells. You gain a pool of spell charges. You expend a number of spell charges to cast a spell at a level equal to the number of spell charges expended. You can’t reduce your spell charge total to less than 0, and you regain all spent spell charges when you finish a long rest. The Mage Features table shows how many spell charges you have to cast spells of levels 1—4. The table also shows the maximum level of those spells. Even though you might have enough charges to cast a spell above this maximum, you can’t do so.
 
-Some game effects require casters to expend one or more spell slots to apply that effect. A mage can meet this requirement by expending spell charges totaling the same level or higher in place of the required spell slots.
+Some game features require casters to expend one or more spell slots to use that feature. A mage can meet this requirement by expending spell charges totaling the same level or higher in place of the required spell slots.
 
 You begin with 8 spell charges at Mage level 1. Each time you reach Mage levels 2—19, the number of spell charges you have increases by 4. When you reach Mage Level 20, the number of spell charges you have increases by 8. You regain all expended Innate Spellcasting spell charges when you finish a Long Rest.  
 For example, when you're a level 6 Mage, you have twenty-eight spell charges. To cast the level 2 spell *Scorching Ray*, you must spend two of those charges, and you cast it as a level 2 spell. To cast the level 1 spell Cure Wounds*, you must spend one of those charges, and you cast it as a level 1 spell. To cast the level 1 spell *Armor of Agathys* as a level 2 spell, you must spend two of those charges, and you cast it as a level 2 spell.  
@@ -79,9 +79,8 @@ At the end of a Short Rest, you regain expended Innate Spellcasting spell charge
 While you aren't wearing any armor, your base Armor Class equals 10 plus your Dexterity and Constitution modifiers. You can use a Shield and still gain this benefit.  
   
 # Level 3: Mage Subclass  
-You gain a Mage subclass of your choice. A subclass is a specialization that grants you features at certain Mage levels. For the rest of your career, you gain each of your subclass's features that are of your Mage level or lower.  
-
-*Subclass features do not make the class significantly more powerful in combat. Like the 2014 Cleric, the base class contains all of the necessary combat power.*
+You gain a Mage subclass of your choice. A subclass is a specialization that grants you features at certain Mage levels. For the rest of your career, you gain each of your subclass's features that are of your Mage level or lower.
+Subclass features do not make the class significantly more powerful in combat. Like the 2014 Cleric, the base class contains all of the necessary combat power.
   
 # Level 4: Ability Score Improvement  
 You gain the Ability Score Improvement feat or another feat of your choice for which you qualify. You gain this feature again at Mage levels 8, 12, 14, and 16.  
@@ -106,6 +105,6 @@ You gain your Level 20 subclass features.
 | Cantrips | *Blade Ward, Control Flames, Dancing Lights, Druidcraft, Elementalism, Encode Thoughts, Friends, Guidance, Gust, Light, Mage Hand, Magic Stone, Mending, Message, Minor Illusion, Mold Earth, Prestidigitation, Resistance, Shape Water, Shillelagh, Spare the Dying, Thaumaturgy* |
 | 1 | *Absorb Elements, Animal Friendship, Armor of Agathys, Cause Fear, Charm Person, Command, Create or Destroy Water, Cure Wounds, Distort Value, Divine Smite, Earth Tremor, Ensnaring Strike, Hail of Thorns, Healing Word, Hellish Rebuke, Searing Smite, Spellfire Flare, Tasha's Caustic Brew, Tasha's Hideous Laughter, Wardaway, Wrathful Smite* |
 | 2 | *Aid, Air Bubble, Arcane Vigor, Blindness/Deafness, Cloud of Daggers, Cordon of Arrows, Dust Devil, Enhance Ability, Find Steed, Flaming Sphere, Fortune's Favor, Healing Spirit, Heat Metal, Hold Person, Immovable Object, Invisibility, Magic Weapon, Moonbeam, Prayer of Healing, Shining Smite, Shadow Blade, Spider Climb, Spiritual Weapon, Spray of Cards, Summon Beast, Tasha's Mind Whip, Vortex Warp, Warp Sense, Wither and Bloom* |
-| 3 | *Antagonize, Ashardalon's Stride, Blinding Smite, Cacophonic Shield, Call Lightning, Catnap, Conjure Animals, Conjure Barrage, Conjure Constructs, Erupting Earth, Fast Friends, Flame Arrows, Fly, Gaseous Form, Glyph of Warding, Hunger of Hadar, Intellect Fortress, Laeral's Silver Lance, Life Transferrence, Lightning Arrow, Mass Healing Word, Melf's Minute Meteors, Motivational Speech, Spirit Guardians, Spirit Shroud, Summon Fey, Summon Lesser Demons, Summon Shadowspawn, Summon Undead, SylunÃ©'s Viper, Thunder Step, Vampiric Touch* |
+| 3 | *Antagonize, Ashardalon's Stride, Blinding Smite, Cacophonic Shield, Call Lightning, Catnap, Conjure Animals, Conjure Barrage, Conjure Constructs, Erupting Earth, Fast Friends, Flame Arrows, Fly, Gaseous Form, Glyph of Warding, Hunger of Hadar, Intellect Fortress, Laeral's Silver Lance, Life Transferrence, Lightning Arrow, Mass Healing Word, Melf's Minute Meteors, Motivational Speech, Spirit Guardians, Spirit Shroud, Summon Fey, Summon Lesser Demons, Summon Shadowspawn, Summon Undead, Syluné's Viper, Thunder Step, Vampiric Touch* |
 | 4 | *Arcane Eye, Aura of Life, Aura of Purity, Backlash, Banishment, Blight, Charm Monster, Compulsion, Confusion, Conjure Minor Elementals, Control Water, Death Ward, Dimension Door, Divination, Dominate Beast, Doomtide, Elemental Bane, Evard's Black Tentacles, Fabricate, Fire Shield, Freedom of Movement, Gate Seal, Giant Insect, Grasping Vine, Greater Invisibility, Guardian of Faith, Hallucinatory Terrain, Leomund's Secret Chest, Locate Creature, Mordenkainen's Private Sanctum, Mordenkainen's Faithful Hound, Otiluke's Resilient Sphere, Polymorph, Raulothim's Psychic Lance, Phantasmal Killer, Shadow of Moil, Sickening Radiance, Spirit of Death, Staggering Smite, Stone Shape, Stoneskin, Summon Aberration, Summon Elemental, Summon Greater Demon, Wall of Fire* |
   
