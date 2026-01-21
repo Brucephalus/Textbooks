@@ -43,7 +43,7 @@ The mage is at least as powerful as a class needs to be in 2014, but also really
 | 17 | +6 | Innate Spellcasting (four spells) | 3 | 11 | 16 | 3 |
 | 18 | +6 | - | 3 | 12 | 16 | 3 |
 | 19 | +6 | Bonus Proficiencies | 3 | 12 | 16 | 4 |
-| 20 | +6 | Eldritch Master | 3 | 13 | 16 | 4 |
+| 20 | +6 | Subclass Feature | 3 | 13 | 16 | 4 |
   
 **Mage Class Features**  
 As a Mage, you gain the following class features when you reach the specified Mage levels. These features are listed in the Mage Features table.  
