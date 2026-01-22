@@ -24,10 +24,10 @@ The mage is at least as powerful as a class needs to be in 2024, but also really
 | Level | Proficiency Bonus | Class Features | Cantrips | Prepared Spells | Spell Slots | Slot Level |
 | ----- | ----------------- | ---------------------------------- | -------- | --------------- | ----------- | ---------- |
 | 1 | +2 | Pact Magic, Unarmored Defense | 2 | 2 | 2 | 1 |
-| 2 | +2 | Magical Recovery | 2 | 3 | 4 | 1 |
-| 3 | +2 | Mage Subclass | 2 | 3 | 8 | 1 |
-| 4 | +2 | Ability Score Improvement | 2 | 4 | 12 | 1 |
-| 5 | +3 | — | 2 | 4 | 13 | 1 |
+| 2 | +2 | Magical Recovery | 2 | 3 | 6 | 1 |
+| 3 | +2 | Mage Subclass | 2 | 3 | 9 | 1 |
+| 4 | +2 | Ability Score Improvement | 2 | 4 | 13 | 1 |
+| 5 | +3 | — | 2 | 4 | 16 | 1 |
 | 6 | +3 | — | 2 | 5 | 16 | 1 |
 | 7 | +3 | — | 2 | 5 | 16 | 2 |
 | 8 | +3 | Ability Score Improvement | 2 | 6 | 16 | 2 |
