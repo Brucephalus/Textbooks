@@ -82,7 +82,7 @@ You gain a Mage subclass of your choice. A subclass is a specialization that gra
 You gain the Ability Score Improvement feat or another feat of your choice for which you qualify. You gain this feature again at Mage levels 8, 12, 14, and 16.
 
 ### Level 9: Signature Spells
-Choose four spells you have prepared that have a casting time of an action or bonus action as your signature spells. You can cast each of them once at level 4 without expending a spell slot. When you do so, you can’t cast them in this way again until you finish a Long Rest.
+Choose four level 1+ spells you have prepared that have a casting time of an action or bonus action as your signature spells. You can cast each of them once at level 4 without expending a spell slot. When you do so, you can’t cast them in this way again until you finish a Long Rest.
 
 You gain additional uses when you reach certain Mage levels. Beginning at Mage level 15, you can cast each signature spell twice between Long Rests, and at Mage level 20, you can cast each signature spell three times between Long Rests.
 
