@@ -55,8 +55,6 @@ When you reach Mage level 10, you learn another Mage cantrip of your choice.
 
 ***Spell Slots.*** The Mage Features table shows how many spell slots you have to cast your Mage spells of levels 1–4. The table also shows the level of those slots, all of which are the same level. You regain all expended Pact Magic spell slots when you finish a Long Rest.
 
-For example, when you’re a level 7 Mage, you have two level 2 spell slots. To cast the level 1 spell *Spellfire Flare*, you must spend one of those slots, and you cast it as a level 2 spell.
-
 ***Prepared Spells of Level 1+.*** You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Mage spells. *Spellfire Flare* and *Armor of Agathys* are recommended.
 
 The number of spells on your list increases as you gain Mage levels, as shown in the Prepared Spells column of the Mage Features table. Whenever that number increases, choose additional Mage spells until the number of spells on your list matches the number in the table. The chosen spells must be of a level no higher than what’s shown in the table’s Slot Level column for your level. When you reach level 7, for example, you learn a new Mage spell, which can be of levels 1–2.
