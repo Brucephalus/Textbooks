@@ -31,7 +31,7 @@ The mage is at least as powerful as a class needs to be in 2024, but also really
 | 6 | +3 | — | 2 | 5 | 16 | 1 |
 | 7 | +3 | — | 2 | 5 | 16 | 2 |
 | 8 | +3 | Ability Score Improvement | 2 | 6 | 16 | 2 |
-| 9 | +4 | Signature Spells | 2 | 6 | 16 | 2 |
+| 9 | +4 | — | 2 | 6 | 16 | 2 |
 | 10 | +4 | Subclass feature | 3 | 7 | 16 | 2 |
 | 11 | +4 | — | 3 | 8 | 16 | 2 |
 | 12 | +4 | Ability Score Improvement | 3 | 8 | 16 | 2 |
@@ -42,7 +42,7 @@ The mage is at least as powerful as a class needs to be in 2024, but also really
 | 17 | +6 | — | 3 | 11 | 16 | 3 |
 | 18 | +6 | — | 3 | 12 | 16 | 3 |
 | 19 | +6 | Bonus Proficiencies | 3 | 12 | 16 | 4 |
-| 20 | +6 | Subclass Feature | 3 | 13 | 16 | 4 |
+| 20 | +6 | Subclass Feature, Signature Spells | 3 | 13 | 16 | 4 |
 
 ## Mage Class Features
 
@@ -81,18 +81,14 @@ You gain a Mage subclass of your choice. A subclass is a specialization that gra
 ### Level 4: Ability Score Improvement
 You gain the Ability Score Improvement feat or another feat of your choice for which you qualify. You gain this feature again at Mage levels 8, 12, 14, and 16.
 
-### Level 9: Signature Spells
-Choose four level 1+ spells you have prepared that have a casting time of an action or bonus action as your signature spells. You can cast each of them once at level 4 without expending a spell slot. When you do so, you can’t cast them in this way again until you finish a Long Rest.
-
-You gain additional uses when you reach certain Mage levels. Beginning at Mage level 15, you can cast each signature spell twice between Long Rests, and at Mage level 20, you can cast each signature spell three times between Long Rests.
-
-Whenever you finish a Long Rest, you can replace one of your signature spells with an eligible spell you have prepared.
-
 ### Level 10: Subclass Feature
 You gain your level 10 subclass features.
 
 ### Level 19: Bonus Proficiencies
 You gain Proficiency in Strength, Dexterity, Intelligence, and Wisdom Saving Throws.
+
+### Level 20: Signature Spells
+Choose two level 1+ spells you have prepared that have a casting time of an action or bonus action as your signature spells. You can cast each of them twice at level 4 without expending a spell slot. You regain uses when you finish a Long Rest.
 
 ### Level 20: Subclass Feature
 You gain your level 20 subclass features.
