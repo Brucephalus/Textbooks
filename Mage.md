@@ -36,12 +36,12 @@ The mage is at least as powerful as a class needs to be in 2024, but also really
 | 11 | +4 | — | 3 | 8 | 16 | 2 |
 | 12 | +4 | Ability Score Improvement | 3 | 8 | 16 | 2 |
 | 13 | +5 | — | 3 | 9 | 16 | 3 |
-| 14 | +5 | Ability Score Improvement | 3 | 9 | 16 | 3 |
+| 14 | +5 | Bonus Proficiences | 3 | 9 | 16 | 3 |
 | 15 | +5 | — | 3 | 10 | 16 | 3 |
 | 16 | +5 | Ability Score Improvement | 3 | 11 | 16 | 3 |
 | 17 | +6 | — | 3 | 11 | 16 | 3 |
 | 18 | +6 | — | 3 | 12 | 16 | 3 |
-| 19 | +6 | Bonus Proficiencies | 3 | 12 | 16 | 4 |
+| 19 | +6 | Epic Boon Feat | 3 | 12 | 16 | 4 |
 | 20 | +6 | Subclass Feature, Signature Spells | 3 | 13 | 16 | 4 |
 
 ## Mage Class Features
@@ -84,8 +84,11 @@ You gain the Ability Score Improvement feat or another feat of your choice for w
 ### Level 10: Subclass Feature
 You gain your level 10 subclass features.
 
-### Level 19: Bonus Proficiencies
+### Level 14: Bonus Proficiencies
 You gain Proficiency in Strength, Dexterity, Intelligence, and Wisdom Saving Throws.
+
+### Level 19: Epic Boon Feat
+You gain an Epic Boon Feat or another Feat for which you qualify. The Boon of Spell Recall is recommended.
 
 ### Level 20: Signature Spells
 Choose two level 1+ spells you have prepared that have a casting time of an action or bonus action as your signature spells. You can cast each of them twice at level 4 without expending a spell slot. You regain uses when you finish a Long Rest.
