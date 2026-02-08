@@ -45,13 +45,20 @@ The Mage represents an attempt to make a full spellcaster that is quantitatively
 As a Mage, you gain the following features.
 ### Level 1: Pact Magic
 You have learned to cast spells. The information below details how you use the rules on spellcasting with Mage spells, which appear in the Mage spell list later in the class’s description.
-***Spell Slots.*** The Mage Features table shows how many spell slots you have to cast your Mage spells of levels 1–4. The table also shows the level of those slots, all of which are the same level. You regain all expended Pact Magic spell slots when you finish a Long Rest.
+
+ ***Spell Slots.*** The Mage Features table shows how many spell slots you have to cast your Mage spells of levels 1–4. The table also shows the level of those slots, all of which are the same level. You regain all expended Pact Magic spell slots when you finish a Long Rest.
+
 For example, when you’re a level 7 Mage, you have sixteen level 2 spell slots. To cast the level 1 spell Witch Bolt, you must spend one of those slots, and you cast it as a level 2 spell.
-***Prepared Spells of Level 1+.*** You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Mage spells. *Spellfire Flare* and *Hellish Rebuke* are recommended.
+
+ ***Prepared Spells of Level 1+.*** You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Mage spells. *Spellfire Flare* and *Hellish Rebuke* are recommended.
+ 
 The number of spells on your list increases as you gain Mage levels, as shown in the Prepared Spells column of the Mage Features table. Whenever that number increases, choose additional Mage spells until the number of spells on your list matches the number in the table. The chosen spells must be of a level no higher than what’s shown in the table’s Slot Level column for your level. When you reach level 8, for example, you learn a new Mage spell, which can be of levels 1–2.
+
 If another Mage feature gives you spells that you always have prepared, those spells don’t count against the number of spells you can prepare with this feature, but those spells otherwise count as Mage spells for you.
-***Changing Your Prepared Spells.*** Whenever you gain a Mage level, you can replace one spell on your list with another Mage spell of an eligible level.
-***Spellcasting Ability.*** Constitution is the spellcasting ability for your Mage spells.
+
+ ***Changing Your Prepared Spells.*** Whenever you gain a Mage level, you can replace one spell on your list with another Mage spell of an eligible level.
+ 
+ ***Spellcasting Ability.*** Constitution is the spellcasting ability for your Mage spells.
 ### Level 1: Magical Recovery
 At the end of a Short Rest, you regain expended Pact Magic spell slots but no more than a number equal to half your maximum (round up). Once you use this feature, you can’t do so again until you finish a Long Rest.
 ### Level 1: Unarmored Defense
