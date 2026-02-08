@@ -39,7 +39,7 @@ The Mage represents an attempt to make a full spellcaster that is quantitatively
 | 16 | +5 | Ability Score Improvement | 3 | 11 | 16 | 3 |
 | 17 | +6 | — | 4 | 11 | 16 | 3 |
 | 18 | +6 | Subclass Feature | 4 | 11 | 16 | 3 |
-| 19 | +6 | Magical Recovery | 4 | 12 | 16 | 4 |
+| 19 | +6 | — | 4 | 12 | 16 | 4 |
 | 20 | +6 | Epic Boon | 4 | 13 | 16 | 4 |
 ## Mage Class Features
 As a Mage, you gain the following features.
