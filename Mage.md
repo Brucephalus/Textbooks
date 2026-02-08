@@ -9,6 +9,7 @@
 | Armor Training | None |
 | Tool Proficiencies | None |
 | Starting Equipment | 50 gp |
+
 The Mage represents an attempt to make a full spellcaster that is quantitatively as powerful as a 2024 player class but is qualitatively very poor.
 ## Becoming a Mage…
 ### As a Level 1 Character
