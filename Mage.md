@@ -48,7 +48,7 @@ You have learned to cast spells. The information below details how you use the r
 
  ***Spell Slots.*** The Mage Features table shows how many spell slots you have to cast your Mage spells of levels 1–4. The table also shows the level of those slots, all of which are the same level. You regain all expended Pact Magic spell slots when you finish a Long Rest.
 
-For example, when you’re a level 7 Mage, you have sixteen level 2 spell slots. To cast the level 1 spell Witch Bolt, you must spend one of those slots, and you cast it as a level 2 spell.
+For example, when you’re a level 7 Mage, you have eight level 2 spell slots. To cast the level 1 spell Witch Bolt, you must spend one of those slots, and you cast it as a level 2 spell.
 
  ***Prepared Spells of Level 1+.*** You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Mage spells. *Spellfire Flare* and *Hellish Rebuke* are recommended.
  
@@ -67,6 +67,7 @@ While you aren’t wearing any armor or holding a shield, your base Armor Class 
 You can cast a Mage spell you have prepared without expending a spell slot. You can use this feature once and you regain all expended uses when you finish a Long Rest. You gain additional uses when you reach certain Mage levels, as shown in the Free Casting column of the Mage Features table.
 ### Level 3: Mage Subclass
 You gain a Mage subclass of your choice. A subclass is a specialization that grants you features at certain Mage levels. For the rest of your career, you gain each of your subclass’s features that are of your Mage level or lower.
+*Like the 2014 Cleric, the subclass doesn't add any power to the class — just versatility*
 ### Level 4: Feat
 You gain the Ability Score Improvement feat or another feat of your choice for which you qualify. You gain this feature again at Mage levels 8, 12, and 16.
 ### Level 10: Mage Subclass Feature
