@@ -21,26 +21,26 @@ The Mage represents an attempt to make a full spellcaster that is quantitatively
 #### Mage Features
 | Level | Proficiency Bonus | Class Features | Free Casting | Prepared Spells | Spell Slots | Slot Level |
 | ----- | ----------------- | ---------------------------------- | -------- | --------------- | ----------- | ---------- |
-| 1 | +2 | Pact Magic, Magical Recovery, Unarmored Defense | — | 2 | 1 | 1 |
-| 2 | +2 | — | — | 3 | 4 | 1 |
-| 3 | +2 | Mage Subclass | — | 3 | 7 | 1 |
-| 4 | +2 | Ability Score Improvement | — | 4 | 10 | 1 |
-| 5 | +3 | — | — | 4 | 13 | 1 |
-| 6 | +3 | — | — | 4 | 16 | 1 |
-| 7 | +3 | — | — | 5 | 16 | 2 |
-| 8 | +3 | Ability Score Improvement | — | 6 | 16 | 2 |
-| 9 | +4 | Free Casting | 1 | 6 | 16 | 2 |
-| 10 | +4 | Subclass feature | 1 | 7 | 16 | 2 |
-| 11 | +4 | — | 2 | 8 | 16 | 2 |
-| 12 | +4 | Ability Score Improvement | 2 | 8 | 16 | 2 |
-| 13 | +5 | — | 2 | 9 | 16 | 3 |
-| 14 | +5 | Resilient Survivor | 2 | 10 | 16 | 3 |
-| 15 | +5 | — | 3 | 10 | 16 | 3 |
-| 16 | +5 | Ability Score Improvement | 3 | 11 | 16 | 3 |
-| 17 | +6 | — | 4 | 11 | 16 | 3 |
-| 18 | +6 | Subclass Feature | 4 | 11 | 16 | 3 |
-| 19 | +6 | — | 4 | 12 | 16 | 4 |
-| 20 | +6 | Epic Boon | 4 | 13 | 16 | 4 |
+| 1 | +2 | Pact Magic, Magical Recovery, Unarmored Defense | — | 2 | 2 | 1 |
+| 2 | +2 | Free Casting | 2 | 3 | 3 | 1 |
+| 3 | +2 | Mage Subclass | 4 | 3 | 5 | 1 |
+| 4 | +2 | Ability Score Improvement | 7 | 4 | 6 | 1 |
+| 5 | +3 | — | 8 | 4 | 8 | 1 |
+| 6 | +3 | — | 9 | 4 | 8 | 1 |
+| 7 | +3 | — | 9 | 5 | 8 | 2 |
+| 8 | +3 | Ability Score Improvement | 9 | 6 | 9 | 2 |
+| 9 | +4 | — | 10 | 6 | 10 | 2 |
+| 10 | +4 | Subclass feature | 11 | 7 | 10 | 2 |
+| 11 | +4 | — | 11 | 8 | 10 | 2 |
+| 12 | +4 | Ability Score Improvement | 12 | 8 | 10 | 2 |
+| 13 | +5 | — | 12 | 9 | 10 | 3 |
+| 14 | +5 | Resilient Survivor | 12 | 10 | 10 | 3 |
+| 15 | +5 | — | 12 | 10 | 10 | 3 |
+| 16 | +5 | Ability Score Improvement | 12 | 11 | 10 | 3 |
+| 17 | +6 | — | 12 | 11 | 11 | 3 |
+| 18 | +6 | — | 12 | 11 | 11 | 3 |
+| 19 | +6 | Epic Boon | 12 | 12 | 11 | 4 |
+| 20 | +6 | Subclass Feature | 13 | 13 | 11 | 4 |
 ## Mage Class Features
 As a Mage, you gain the following features.
 ### Level 1: Pact Magic
@@ -63,20 +63,20 @@ If another Mage feature gives you spells that you always have prepared, those sp
 At the end of a Short Rest, you regain expended Pact Magic spell slots but no more than a number equal to half your maximum (round up). Once you use this feature, you can’t do so again until you finish a Long Rest.
 ### Level 1: Unarmored Defense
 While you aren’t wearing any armor or holding a shield, your base Armor Class equals 10 plus twice your Proficiency Bonus.
+### Level 2: Free Casting
+You can cast a Mage spell you have prepared without expending a spell slot. You can use this feature once and you regain all expended uses when you finish a Long Rest. You gain additional uses when you reach certain Mage levels, as shown in the Free Casting column of the Mage Features table.
 ### Level 3: Mage Subclass
 You gain a Mage subclass of your choice. A subclass is a specialization that grants you features at certain Mage levels. For the rest of your career, you gain each of your subclass’s features that are of your Mage level or lower.
 ### Level 4: Feat
 You gain the Ability Score Improvement feat or another feat of your choice for which you qualify. You gain this feature again at Mage levels 8, 12, and 16.
-### Level 9: Free Casting
-You can cast a Mage spell you have prepared without expending a spell slot. You can use this feature once and you regain all expended uses when you finish a Long Rest. You gain additional uses when you reach certain Mage levels, as shown in the Free Casting column of the Mage Features table.
 ### Level 10: Mage Subclass Feature
 You gain your Mage level 10 subclass features.
 ### Level 14: Resilient Survivor
 You gain proficiency in Strength, Dexterity, Intelligence, and Wisdom saving throws.
-### Level 18: Mage Subclass Feature
-You gain your Mage level 18 subclass features.
-### Level 20: Epic Boon
+### Level 19: Epic Boon
 You gain an Epic Boon feat or another feat of your choice for which you qualify. Boon of Spell Recall is recommended.
+### Level 20: Mage Subclass Feature
+You gain your Mage level 18 subclass features.
 ## Mage Spell List
 This section presents the Mage spell list. The spells are organized by spell level and then alphabetized.
 | Level | Spells |
