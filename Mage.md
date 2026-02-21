@@ -21,7 +21,7 @@ The Mage represents an attempt to make a full spellcaster that is quantitatively
 #### Mage Features
 | Level | Proficiency Bonus | Class Features | Free Casting | Prepared Spells | Spell Slots | Slot Level |
 | ----- | ----------------- | ---------------------------------- | -------- | --------------- | ----------- | ---------- |
-| 1 | +2 | Pact Magic, Magical Recovery, Unarmored Defense | — | 2 | 2 | 1 |
+| 1 | +2 | Spellcasting, Magical Recovery, Unarmored Defense | — | 2 | 2 | 1 |
 | 2 | +2 | Free Casting | 2 | 3 | 3 | 1 |
 | 3 | +2 | Mage Subclass | 4 | 3 | 5 | 1 |
 | 4 | +2 | Ability Score Improvement | 7 | 4 | 6 | 1 |
@@ -43,10 +43,10 @@ The Mage represents an attempt to make a full spellcaster that is quantitatively
 | 20 | +6 | Subclass Feature | 13 | 13 | 11 | 4 |
 ## Mage Class Features
 As a Mage, you gain the following features.
-### Level 1: Pact Magic
+### Level 1: Spellcasting
 You have learned to cast spells. The information below details how you use the rules on spellcasting with Mage spells, which appear in the Mage spell list later in the class’s description.
 
- ***Spell Slots.*** The Mage Features table shows how many spell slots you have to cast your Mage spells of levels 1–4. The table also shows the level of those slots, all of which are the same level. You regain all expended Pact Magic spell slots when you finish a Long Rest.
+ ***Spell Slots.*** The Mage Features table shows how many spell slots you have to cast your Mage spells of levels 1–4. The table also shows the level of those slots, all of which are the same level. You regain all expended Spellcasting spell slots when you finish a Long Rest.
 
 For example, when you’re a level 7 Mage, you have eight level 2 spell slots. To cast the level 1 spell Witch Bolt, you must spend one of those slots, and you cast it as a level 2 spell.
 
@@ -60,13 +60,14 @@ If another Mage feature gives you spells that you always have prepared, those sp
  
  ***Spellcasting Ability.*** Constitution is the spellcasting ability for your Mage spells.
 ### Level 1: Magical Recovery
-At the end of a Short Rest, you regain expended Pact Magic spell slots but no more than a number equal to half your maximum (round up). Once you use this feature, you can’t do so again until you finish a Long Rest.
+At the end of a Short Rest, you regain expended Spellcasting spell slots but no more than a number equal to half your maximum (round up). Once you use this feature, you can’t do so again until you finish a Long Rest.
 ### Level 1: Unarmored Defense
 While you aren’t wearing any armor or holding a shield, your base Armor Class equals 10 plus twice your Proficiency Bonus.
 ### Level 2: Free Casting
 You can cast a Mage spell you have prepared without expending a spell slot. You can use this feature once and you regain all expended uses when you finish a Long Rest. You gain additional uses when you reach certain Mage levels, as shown in the Free Casting column of the Mage Features table.
 ### Level 3: Mage Subclass
 You gain a Mage subclass of your choice. A subclass is a specialization that grants you features at certain Mage levels. For the rest of your career, you gain each of your subclass’s features that are of your Mage level or lower.
+
 *Like the 2014 Cleric, the subclass doesn't add any power to the class — just versatility*
 ### Level 4: Feat
 You gain the Ability Score Improvement feat or another feat of your choice for which you qualify. You gain this feature again at Mage levels 8, 12, and 16.
@@ -77,7 +78,7 @@ You gain proficiency in Strength, Dexterity, Intelligence, and Wisdom saving thr
 ### Level 19: Epic Boon
 You gain an Epic Boon feat or another feat of your choice for which you qualify. Boon of Spell Recall is recommended.
 ### Level 20: Mage Subclass Feature
-You gain your Mage level 18 subclass features.
+You gain your Mage level 20 subclass features.
 ## Mage Spell List
 This section presents the Mage spell list. The spells are organized by spell level and then alphabetized.
 | Level | Spells |
