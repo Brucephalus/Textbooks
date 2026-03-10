@@ -30,14 +30,14 @@ The Mage represents an attempt to make a full spellcaster that is quantitatively
 | 6 | +3 | — | 12 | 4 | 11 | 1 |
 | 7 | +3 | — | 12 | 5 | 11 | 2 |
 | 8 | +3 | Ability Score Improvement | 12 | 6 | 11 | 2 |
-| 9 | +4 | — | 12 | 6 | 1 | 2 |
-| 10 | +4 | Subclass Feature | 13 | 7 | 10 | 2 |
-| 11 | +4 | — | 13 | 8 | 10 | 2 |
-| 12 | +4 | Ability Score Improvement | 13 | 8 | 10 | 2 |
-| 13 | +5 | — | 13 | 9 | 10 | 3 |
-| 14 | +5 | Resilient Survivor | 13 | 10 | 10 | 3 |
-| 15 | +5 | — | 13 | 10 | 10 | 3 |
-| 16 | +5 | Ability Score Improvement | 13 | 11 | 10 | 3 |
+| 9 | +4 | — | 12 | 6 | 11 | 2 |
+| 10 | +4 | Subclass Feature | 13 | 7 | 11 | 2 |
+| 11 | +4 | — | 13 | 8 | 11 | 2 |
+| 12 | +4 | Ability Score Improvement | 13 | 8 | 11 | 2 |
+| 13 | +5 | — | 13 | 9 | 11 | 3 |
+| 14 | +5 | Resilient Survivor | 13 | 10 | 11 | 3 |
+| 15 | +5 | — | 13 | 10 | 11 | 3 |
+| 16 | +5 | Ability Score Improvement | 13 | 11 | 11 | 3 |
 | 17 | +6 | — | 13 | 11 | 11 | 3 |
 | 18 | +6 | — | 13 | 11 | 11 | 3 |
 | 19 | +6 | Epic Boon | 13 | 12 | 11 | 4 |
