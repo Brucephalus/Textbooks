@@ -2,7 +2,7 @@
 #### Core Mage Traits
 | Primary Ability | Constitution |
 | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Hit Point Die | D8 per Mage level |
+| Hit Point Die | D6 per Mage level |
 | Saving Throw Proficiencies | Constitution and Charisma |
 | Skill Proficiencies | *Choose 2:* Animal Handling, Arcana, Deception, History, Insight, Intimidation, Investigation, Medicine, Nature, Perception, Performance, Persuasion, Survival |
 | Weapon Proficiencies | Blowgun, Boomerang, Club, Dagger, Dart, Light Hammer, Net, Sickle, Sling, Whip |
@@ -17,11 +17,10 @@ The Mage represents an attempt to make a full spellcaster that is quantitatively
 - Gain the Mage's level 1 features, which are listed in the Mage Features table.
 ### As a Multiclass Character
 - Gain the following traits from the Core Mage Traits table: Hit Point Die.
-- Gain the Mage's level 1 features, which are listed in the Mage Features table. See the multiclassing rules to determine your available spell slots.
-- A character with levels in this class cannot have levels in another class that provides the Spellcasting or Pact Magic feature.
+- Gain the Mage's level 1 features, which are listed in the Mage Features table.
 #### Mage Features
-| Level | Proficiency Bonus | Class Features | Free Casting | Prepared Spells | Spell Slots | Slot Level |
-| ----- | ----------------- | ---------------------------------- | -------- | --------------- | ----------- | ---------- |
+| Level | Proficiency Bonus | Class Features | Prepared Spells | Spell Points | Maximum Spell Level |
+| ----- | ----------------- | ---------------------------------- | -------- | --------------- | ----------- |
 | 1 | +2 | Spellcasting, Magical Recovery, Unarmored Defense | — | 2 | 2 | 1 |
 | 2 | +2 | — | — | 3 | 5 | 1 |
 | 3 | +2 | Free Casting, Mage Subclass | 1 | 3 | 8 | 1 |
