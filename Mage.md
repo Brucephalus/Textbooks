@@ -1,5 +1,5 @@
-# #Shitty Warlock  
-**#### Core Class Traits**  
+# Shitty Warlock  
+#### Core Class Traits
 
 | Primary Ability | Constitution |
 | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -52,7 +52,7 @@ You have gained the ability to cast spells.
   
 ***Spell Points and Slots***.   
 Each spell slot has a point cost based on its level. The Spell Point Cost table summarizes the cost in spell points of slots from 1st to 9th level. Cantrips don’t require slots and therefore don’t require spell points.  
-Instead of gaining a number of spell slots to cast your spells from the Spellcasting feature, you gain a pool of spell points instead. You expend a number of spell points to create a spell slot of a given level, and then use that slot to cast a spell. You can’t reduce your spell point total to less than 0, and you regain all spent spell points when you finish a long rest.  
+Instead of gaining a number of spell slots to cast your spells from the Spellcasting feature, you gain a pool of spell points instead. You expend a number of spell points to create a spell slot of a given level (no action required), and then use that slot to cast a spell. You can’t reduce your spell point total to less than 0, and you regain all spent spell points when you finish a long rest.  
 The Features table shows how many spell points you have to cast your Warlock spells of levels 1–4. The table also shows the maximum level of those slots. Even though you might have enough points to create a slot above this maximum, you can’t do so.  
   
 #### Spell Point Cost  
