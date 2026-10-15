@@ -45,11 +45,20 @@ The Mage represents an attempt to make a full spellcaster that is quantitatively
 ## Mage Class Features
 As a Mage, you gain the following features.
 ### Level 1: Spellcasting
-You have learned to cast spells. The information below details how you use the rules on spellcasting with Mage spells, which appear in the Mage spell list later in the class’s description.
+You have gained the ability to cast spells.
 
- ***Spell Slots.*** The Mage Features table shows how many spell slots you have to cast your Mage spells of levels 1–4. The table also shows the level of those slots, all of which are the same level. You regain all expended Spellcasting spell slots when you finish a Long Rest.
+***Spell Points and Slots***. 
+Each spell slot has a point cost based on its level. The Spell Point Cost table summarizes the cost in spell points of slots from 1st to 9th level. Cantrips don’t require slots and therefore don’t require spell points.
+Instead of gaining a number of spell slots to cast your spells from the Spellcasting feature, you gain a pool of spell points instead. You expend a number of spell points to create a spell slot of a given level, and then use that slot to cast a spell. You can’t reduce your spell point total to less than 0, and you regain all spent spell points when you finish a long rest.
+The Features table shows how many spell points you have to cast your Warlock spells of levels 1–4. The table also shows the maximum level of those slots. Even though you might have enough points to create a slot above this maximum, you can’t do so.
 
-For example, when you’re a level 7 Mage, you have eight level 2 spell slots. To cast the level 1 spell Witch Bolt, you must spend one of those slots, and you cast it as a level 2 spell.
+#### Mage Features
+| Spell Level | Point Cost |
+| ----- | ----------- |
+| 1 | 2 |
+| 2 | 3 |
+| 3 | 5 |
+| 4 | 6 |
 
  ***Prepared Spells of Level 1+.*** You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Mage spells. *Spellfire Flare* and *Hellish Rebuke* are recommended.
  
