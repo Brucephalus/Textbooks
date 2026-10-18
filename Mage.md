@@ -78,7 +78,7 @@ The number of spells on your list increases as you gain levels, as shown in the 
   
 ***Spell Slots Per Turn.*** You may expend more than one spell slot in the same turn.  
   
-**#**# Level 2: Origin Feats  
+## Level 2: Origin Feats  
 You gain three Origin Feats of your choice.  
 ******Replacing and Gaining Origin Feats.****** Whenever you gain a level in this class, you can replace one of your Origin Feats with another one for which you qualify. You can’t replace an Origin Feat if it’s a prerequisite for another Feat that you have.  
 When you gain certain levels in this class, you gain more Origin Feats of your choice, as shown in the Origin Feats column of the Features table.  
