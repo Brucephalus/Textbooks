@@ -1,4 +1,4 @@
-# Shitty Warlock  
+# Shitty Mage  
 #### Core Class Traits
 
 | Primary Ability | Constitution |
